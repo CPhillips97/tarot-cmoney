@@ -1,0 +1,50 @@
+{
+  "suit": "MajorArcana",
+  "name": "The World",
+  "upright_meanings_1": [
+    "fulfillment",
+    "harmony",
+    "completion"
+  ],
+  "upright_meanings_2": [
+    "completion",
+    "achievement",
+    "fulfilment",
+    "sense of belonging",
+    "wholeness",
+    "harmony"
+  ],
+  "upright_love_meaning": [
+    "feeling loved and grateful",
+    "fulfilling romantic life"
+  ],
+  "upright_career_meaning": [
+    "completing career goal",
+    "fulfilling career path"
+  ],
+  "upright_finances_meaning": [
+    "completing financial goal"
+  ],
+  "reverse_meanings_1": [
+    "incompletion",
+    "no closure"
+  ],
+  "reverse_meanings_2": [
+    "lack of closure",
+    "lack of achievement",
+    "feeling incomplete",
+    "emptiness"
+  ],
+  "reverse_love_meaning": [
+    "missing something in love life",
+    "taking partner for granted"
+  ],
+  "reverse_career_meaning": [
+    "false measure of success",
+    "missing piece in career"
+  ],
+  "reverse_finances_meaning": [
+    "close to completing financial goal",
+    "unfulfilled despite financial comfort"
+  ]
+}

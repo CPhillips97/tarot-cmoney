@@ -1,0 +1,65 @@
+{
+  "suit": "Pentacles",
+  "name": "Four of Pentacles",
+  "upright_meanings_1": [
+    "conservation",
+    "frugality",
+    "security"
+  ],
+  "upright_meanings_2": [
+    "possessiveness",
+    "insecurity",
+    "hoarding",
+    "stinginess",
+    "stability",
+    "security",
+    "savings",
+    "materialism",
+    "wealth",
+    "frugality",
+    "boundaries",
+    "guardedness"
+  ],
+  "upright_love_meaning": [
+    "clingy lover",
+    "jealousy",
+    "feeling insecure",
+    "holding onto past"
+  ],
+  "upright_career_meaning": [
+    "impostor syndrome",
+    "paranoia",
+    "avoiding collaboration"
+  ],
+  "upright_finances_meaning": [
+    "stable finances",
+    "frugality",
+    "saving for future"
+  ],
+  "reverse_meanings_1": [
+    "greediness",
+    "stinginess",
+    "possessiveness"
+  ],
+  "reverse_meanings_2": [
+    "generosity",
+    "giving",
+    "spending",
+    "openness",
+    "financial insecurity",
+    "reckless spending"
+  ],
+  "reverse_love_meaning": [
+    "overcoming jealousy",
+    "release from past lovers"
+  ],
+  "reverse_career_meaning": [
+    "generosity with colleagues",
+    "risky work decisions"
+  ],
+  "reverse_finances_meaning": [
+    "spending",
+    "donating",
+    "sharing resources"
+  ]
+}

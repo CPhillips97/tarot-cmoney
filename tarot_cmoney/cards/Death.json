@@ -1,0 +1,59 @@
+{
+  "suit": "MajorArcana",
+  "name": "Death",
+  "upright_meanings_1": [
+    "end of cycle",
+    "beginnings",
+    "change",
+    "metamorphosis"
+  ],
+  "upright_meanings_2": [
+    "transformation",
+    "endings",
+    "change",
+    "transition",
+    "letting go",
+    "release"
+  ],
+  "upright_love_meaning": [
+    "changes in relationship",
+    "changes in romantic life",
+    "ending relationship"
+  ],
+  "upright_career_meaning": [
+    "job transition",
+    "career transition",
+    "leaving unfulfilling career"
+  ],
+  "upright_finances_meaning": [
+    "financial loss",
+    "adapting to financial loss",
+    "changing views of money"
+  ],
+  "reverse_meanings_1": [
+    "fear of change",
+    "holding on",
+    "stagnation",
+    "decay"
+  ],
+  "reverse_meanings_2": [
+    "fear of change",
+    "repeating negative patterns",
+    "resisting change",
+    "stagnancy",
+    "decay"
+  ],
+  "reverse_love_meaning": [
+    "resisting change in relationship",
+    "failure to change negative emotional patterns"
+  ],
+  "reverse_career_meaning": [
+    "repeating negative patterns at work",
+    "remaining at unfulfilling job",
+    "lack of growth"
+  ],
+  "reverse_finances_meaning": [
+    "failure to adapt to financial loss",
+    "continuing unhealthy financial habits"
+  ]
+}

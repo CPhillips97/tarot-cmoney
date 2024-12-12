@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "Temperance",
+  "upright_meanings_1": [
+    "middle path",
+    "patience",
+    "finding meaning"
+  ],
+  "upright_meanings_2": [
+    "balance",
+    "peace",
+    "patience",
+    "moderation",
+    "calm",
+    "tranquillity",
+    "harmony",
+    "serenity"
+  ],
+  "upright_love_meaning": [
+    "careful and considerate with love",
+    "being patient with love or lover"
+  ],
+  "upright_career_meaning": [
+    "success from patience and moderation",
+    "steady and slow progress"
+  ],
+  "upright_finances_meaning": [
+    "diligent saving",
+    "slow and steady growth"
+  ],
+  "reverse_meanings_1": [
+    "extremes",
+    "excess",
+    "lack of balance"
+  ],
+  "reverse_meanings_2": [
+    "imbalance",
+    "excess",
+    "extremes",
+    "discord",
+    "recklessness",
+    "hastiness"
+  ],
+  "reverse_love_meaning": [
+    "going to extremes for love",
+    "all or nothing romances",
+    "impatience"
+  ],
+  "reverse_career_meaning": [
+    "work-life imbalance",
+    "all or nothing at job",
+    "rushed job",
+    "reckless decisions"
+  ],
+  "reverse_finances_meaning": [
+    "failure to balance long term needs with short term happiness"
+  ]
+}

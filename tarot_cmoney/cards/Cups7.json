@@ -1,0 +1,59 @@
+{
+  "suit": "Cups",
+  "name": "Seven of Cups",
+  "upright_meanings_1": [
+    "searching for purpose",
+    "choices",
+    "daydreaming"
+  ],
+  "upright_meanings_2": [
+    "choices",
+    "searching for purpose",
+    "illusion",
+    "fantasy",
+    "daydreaming",
+    "wishful thinking",
+    "indecision"
+  ],
+  "upright_love_meaning": [
+    "choosing between lovers",
+    "be cautious about romantic decisions"
+  ],
+  "upright_career_meaning": [
+    "many career options",
+    "make a choice and stick to it"
+  ],
+  "upright_finances_meaning": [
+    "several financial opportunities",
+    "caution about financial choices"
+  ],
+  "reverse_meanings_1": [
+    "lack of purpose",
+    "diversion",
+    "confusion"
+  ],
+  "reverse_meanings_2": [
+    "lack of purpose",
+    "disarray",
+    "confusion",
+    "diversion",
+    "distractions",
+    "clarity",
+    "making choices"
+  ],
+  "reverse_love_meaning": [
+    "chaotic and confusing love life",
+    "avoiding romantic decisions",
+    "clarity about love"
+  ],
+  "reverse_career_meaning": [
+    "lack of career options",
+    "missed opportunities",
+    "creating clear career vision"
+  ],
+  "reverse_finances_meaning": [
+    "financial clarity",
+    "distraction from financial goals",
+    "lack of financial goals"
+  ]
+}

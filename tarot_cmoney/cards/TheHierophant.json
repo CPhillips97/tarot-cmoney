@@ -1,0 +1,62 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Hierophant",
+  "upright_meanings_1": [
+    "tradition",
+    "conformity",
+    "morality",
+    "ethics"
+  ],
+  "upright_meanings_2": [
+    "tradition",
+    "social groups",
+    "conventionality",
+    "conformity",
+    "education",
+    "knowledge",
+    "beliefs"
+  ],
+  "upright_love_meaning": [
+    "safe",
+    "traditional partners",
+    "avoiding taboo",
+    "spiritual love"
+  ],
+  "upright_career_meaning": [
+    "success in work groups",
+    "education",
+    "teamwork",
+    "mentor"
+  ],
+  "upright_finances_meaning": [
+    "keeping your money safe",
+    "traditional financial institutions"
+  ],
+  "reverse_meanings_1": [
+    "rebellion",
+    "subversiveness",
+    "new approaches"
+  ],
+  "reverse_meanings_2": [
+    "rebellion",
+    "unconventionality",
+    "non-conformity",
+    "new methods",
+    "ignorance"
+  ],
+  "reverse_love_meaning": [
+    "stale relationship",
+    "values not aligned",
+    "breaking taboo"
+  ],
+  "reverse_career_meaning": [
+    "bureaucracy",
+    "stifling",
+    "confined workplace",
+    "peer pressure"
+  ],
+  "reverse_finances_meaning": [
+    "new financial institutions",
+    "taking risks with finances"
+  ]
+}

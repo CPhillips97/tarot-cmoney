@@ -1,0 +1,59 @@
+{
+  "suit": "Cups",
+  "name": "Queen of Cups",
+  "upright_meanings_1": [
+    "compassion",
+    "calm",
+    "comfort"
+  ],
+  "upright_meanings_2": [
+    "compassion",
+    "warmth",
+    "kindness",
+    "intuition",
+    "healer",
+    "counsellor",
+    "supportive"
+  ],
+  "upright_love_meaning": [
+    "caring and supportive nature brings suitors",
+    "deepening existing relationships"
+  ],
+  "upright_career_meaning": [
+    "taking the role of carer at work",
+    "seeking out support and compassion at work"
+  ],
+  "upright_finances_meaning": [
+    "using resources to care for others",
+    "giving",
+    "charity",
+    "generosity"
+  ],
+  "reverse_meanings_1": [
+    "martyrdom",
+    "insecurity",
+    "dependence"
+  ],
+  "reverse_meanings_2": [
+    "insecurity",
+    "giving too much",
+    "overly-sensitive",
+    "needy",
+    "fragile",
+    "dependence",
+    "martyrdom"
+  ],
+  "reverse_love_meaning": [
+    "a dependent or clingy lover",
+    "putting more effort in than partner",
+    "overly-sensitive lover"
+  ],
+  "reverse_career_meaning": [
+    "emotional exhaustion at work",
+    "neglecting your own emotional health for job"
+  ],
+  "reverse_finances_meaning": [
+    "being too generous",
+    "neglecting own financial health for others"
+  ]
+}

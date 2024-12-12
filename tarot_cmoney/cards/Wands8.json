@@ -1,0 +1,61 @@
+{
+  "suit": "Wands",
+  "name": "Eight of Wands",
+  "upright_meanings_1": [
+    "rapid action",
+    "movement",
+    "quick decisions"
+  ],
+  "upright_meanings_2": [
+    "movement",
+    "speed",
+    "progress",
+    "quick decisions",
+    "sudden changes",
+    "excitement"
+  ],
+  "upright_love_meaning": [
+    "romantic life picking up pace",
+    "excitement",
+    "surprises in love"
+  ],
+  "upright_career_meaning": [
+    "quick progress at work",
+    "travelling for work",
+    "motivation",
+    "impact"
+  ],
+  "upright_finances_meaning": [
+    "quick movement of money",
+    "cash coming in and going out"
+  ],
+  "reverse_meanings_1": [
+    "panic",
+    "waiting",
+    "slowdown"
+  ],
+  "reverse_meanings_2": [
+    "waiting",
+    "slowness",
+    "chaos",
+    "delays",
+    "losing momentum",
+    "hastiness",
+    "being unprepared"
+  ],
+  "reverse_love_meaning": [
+    "misunderstandings",
+    "delays in love",
+    "hectic pace",
+    "confusion"
+  ],
+  "reverse_career_meaning": [
+    "career stagnation",
+    "lost chances",
+    "overwhelmed by job"
+  ],
+  "reverse_finances_meaning": [
+    "slow flow of money",
+    "lack of patience for financial growth"
+  ]
+}

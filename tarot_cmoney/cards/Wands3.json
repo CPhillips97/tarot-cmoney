@@ -1,0 +1,55 @@
+{
+  "suit": "Wands",
+  "name": "Three of Wands",
+  "upright_meanings_1": [
+    "looking ahead",
+    "expansion",
+    "rapid growth"
+  ],
+  "upright_meanings_2": [
+    "momentum",
+    "confidence",
+    "expansion",
+    "growth",
+    "foresight",
+    "looking ahead"
+  ],
+  "upright_love_meaning": [
+    "next stage in relationship",
+    "romantic momentum",
+    "creating lasting foundation"
+  ],
+  "upright_career_meaning": [
+    "new horizons in career",
+    "expanding your career options"
+  ],
+  "upright_finances_meaning": [
+    "expanding views about finances",
+    "expanding financial goals"
+  ],
+  "reverse_meanings_1": [
+    "obstacles",
+    "delays",
+    "frustration"
+  ],
+  "reverse_meanings_2": [
+    "restriction",
+    "limitations",
+    "lack of progress",
+    "obstacles",
+    "delays",
+    "frustration"
+  ],
+  "reverse_love_meaning": [
+    "frustrations or obstacles in love",
+    "learning to compromise in love"
+  ],
+  "reverse_career_meaning": [
+    "obstacles in career path",
+    "lack of growth and challenge",
+    "feeling caged"
+  ],
+  "reverse_finances_meaning": [
+    "delays in achieving financial goals"
+  ]
+}

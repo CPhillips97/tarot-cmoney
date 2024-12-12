@@ -1,0 +1,60 @@
+{
+  "suit": "Cups",
+  "name": "Ace of Cups",
+  "upright_meanings_1": [
+    "new feelings",
+    "spirituality",
+    "intuition"
+  ],
+  "upright_meanings_2": [
+    "love",
+    "new feelings",
+    "emotional awakening",
+    "creativity",
+    "spirituality",
+    "intuition"
+  ],
+  "upright_love_meaning": [
+    "new romance",
+    "friendship",
+    "next level in relationship",
+    "deeper intimacy"
+  ],
+  "upright_career_meaning": [
+    "friendly relations at work",
+    "new emotions about job",
+    "jolt of creativity"
+  ],
+  "upright_finances_meaning": [
+    "financial assistance",
+    "happy financial news",
+    "creativity in earning money"
+  ],
+  "reverse_meanings_1": [
+    "emotional loss",
+    "blocked creativity",
+    "emptiness"
+  ],
+  "reverse_meanings_2": [
+    "coldness",
+    "emptiness",
+    "emotional loss",
+    "blocked creativity",
+    "feeling unloved",
+    "gloominess"
+  ],
+  "reverse_love_meaning": [
+    "sadness",
+    "separation",
+    "vulnerability",
+    "insecurity in the way of love"
+  ],
+  "reverse_career_meaning": [
+    "feeling unmotivated and bored at job",
+    "unfriendly colleagues"
+  ],
+  "reverse_finances_meaning": [
+    "disappointing news",
+    "frustration and sadness regarding finances"
+  ]
+}

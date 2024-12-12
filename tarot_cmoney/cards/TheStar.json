@@ -1,0 +1,55 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Star",
+  "upright_meanings_1": [
+    "hope",
+    "faith",
+    "rejuvenation"
+  ],
+  "upright_meanings_2": [
+    "hope",
+    "inspiration",
+    "positivity",
+    "faith",
+    "renewal",
+    "healing",
+    "rejuvenation"
+  ],
+  "upright_love_meaning": [
+    "optimistic about love life",
+    "healing from past wounds"
+  ],
+  "upright_career_meaning": [
+    "positivity brings career rewards",
+    "high hopes about job"
+  ],
+  "upright_finances_meaning": [
+    "reaching financial goals",
+    "remaining inspired"
+  ],
+  "reverse_meanings_1": [
+    "faithlessness",
+    "discouragement",
+    "insecurity"
+  ],
+  "reverse_meanings_2": [
+    "hopelessness",
+    "despair",
+    "negativity",
+    "lack of faith",
+    "despondent"
+  ],
+  "reverse_love_meaning": [
+    "extreme self-criticism",
+    "loss of hope about romance",
+    "lack of confidence"
+  ],
+  "reverse_career_meaning": [
+    "lack of motivation",
+    "lack of enthusiasm",
+    "pessimism about work"
+  ],
+  "reverse_finances_meaning": [
+    "despair regarding financial situation"
+  ]
+}

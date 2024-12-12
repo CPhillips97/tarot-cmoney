@@ -1,0 +1,60 @@
+{
+  "suit": "Swords",
+  "name": "King of Swords",
+  "upright_meanings_1": [
+    "head over heart",
+    "discipline",
+    "truth"
+  ],
+  "upright_meanings_2": [
+    "reason",
+    "authority",
+    "discipline",
+    "integrity",
+    "morality",
+    "serious",
+    "high standards",
+    "strict"
+  ],
+  "upright_love_meaning": [
+    "high standards for love",
+    "controlled emotions"
+  ],
+  "upright_career_meaning": [
+    "stern but righteous mentor",
+    "challenged to do your best"
+  ],
+  "upright_finances_meaning": [
+    "being disciplined with finances",
+    "acting logically"
+  ],
+  "reverse_meanings_1": [
+    "manipulative",
+    "cruel",
+    "weakness"
+  ],
+  "reverse_meanings_2": [
+    "irrational",
+    "dictator",
+    "oppressive",
+    "inhumane",
+    "controlling",
+    "cold",
+    "ruthless",
+    "dishonest"
+  ],
+  "reverse_love_meaning": [
+    "selfish",
+    "abusive lover",
+    "low standards for love"
+  ],
+  "reverse_career_meaning": [
+    "dominating",
+    "power-hungry colleague",
+    "irrational work decisions"
+  ],
+  "reverse_finances_meaning": [
+    "irrational financial decisions",
+    "lack of financial discipline"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "suit": "Swords",
+  "name": "Eight of Swords",
+  "upright_meanings_1": [
+    "imprisonment",
+    "entrapment",
+    "self-victimization"
+  ],
+  "upright_meanings_2": [
+    "trapped",
+    "restricted",
+    "victimised",
+    "paralysed",
+    "helpless",
+    "powerless",
+    "imprisonment"
+  ],
+  "upright_love_meaning": [
+    "feeling trapped",
+    "suffocated",
+    "smothered",
+    "passive in love life"
+  ],
+  "upright_career_meaning": [
+    "dependence on job",
+    "can\u2019t change careers",
+    "fear of job changes"
+  ],
+  "upright_finances_meaning": [
+    "anxiety about money",
+    "can\u2019t see financial opportunity"
+  ],
+  "reverse_meanings_1": [
+    "self acceptance",
+    "new perspective",
+    "freedom"
+  ],
+  "reverse_meanings_2": [
+    "freedom",
+    "release",
+    "taking control",
+    "survivor",
+    "facing fears",
+    "empowered",
+    "surrender"
+  ],
+  "reverse_love_meaning": [
+    "clearer perspective of relationship",
+    "active role in love life"
+  ],
+  "reverse_career_meaning": [
+    "new job to reach potential",
+    "freedom from anxiety",
+    "continued struggle"
+  ],
+  "reverse_finances_meaning": [
+    "lessened anxiety",
+    "intensified anxiety",
+    "fears clouding truth"
+  ]
+}

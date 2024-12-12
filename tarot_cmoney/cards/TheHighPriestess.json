@@ -1,0 +1,57 @@
+{
+  "suit": "MajorArcana",
+  "name": "The High Priestess",
+  "upright_meanings_1": [
+    "intuitive",
+    "unconscious",
+    "inner voice"
+  ],
+  "upright_meanings_2": [
+    "unconscious",
+    "intuition",
+    "mystery",
+    "spirituality",
+    "higher power",
+    "inner voice"
+  ],
+  "upright_love_meaning": [
+    "remain patient in love",
+    "calm exterior with inner passion",
+    "intimacy"
+  ],
+  "upright_career_meaning": [
+    "education",
+    "creative inspiration",
+    "guide",
+    "mentor",
+    "use instincts"
+  ],
+  "upright_finances_meaning": [
+    "keeping your financial situation private"
+  ],
+  "reverse_meanings_1": [
+    "lack of center",
+    "lost inner voice",
+    "repressed feelings"
+  ],
+  "reverse_meanings_2": [
+    "repressed intuition",
+    "hidden motives",
+    "superficiality",
+    "confusion",
+    "cognitive dissonance"
+  ],
+  "reverse_love_meaning": [
+    "ignoring intuition in romance",
+    "hiding true self with lover"
+  ],
+  "reverse_career_meaning": [
+    "feeling isolated",
+    "lacking project information",
+    "rejecting intuition"
+  ],
+  "reverse_finances_meaning": [
+    "lack of information",
+    "not knowing all the facts"
+  ]
+}

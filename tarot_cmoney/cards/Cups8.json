@@ -1,0 +1,52 @@
+{
+  "suit": "Cups",
+  "name": "Eight of Cups",
+  "upright_meanings_1": [
+    "walking away",
+    "disillusionment",
+    "leaving behind"
+  ],
+  "upright_meanings_2": [
+    "abandonment",
+    "walking away",
+    "letting go",
+    "searching for truth",
+    "leaving behind"
+  ],
+  "upright_love_meaning": [
+    "leaving unhappy relationship",
+    "abandonment issues"
+  ],
+  "upright_career_meaning": [
+    "leaving unfulfilling job",
+    "taking vacation",
+    "escapism"
+  ],
+  "upright_finances_meaning": [
+    "choosing happiness over financial security"
+  ],
+  "reverse_meanings_1": [
+    "avoidance",
+    "fear of change",
+    "fear of loss"
+  ],
+  "reverse_meanings_2": [
+    "stagnation",
+    "monotony",
+    "accepting less",
+    "avoidance",
+    "fear of change",
+    "staying in bad situation"
+  ],
+  "reverse_love_meaning": [
+    "staying in a bad relationship",
+    "fear of being alone"
+  ],
+  "reverse_career_meaning": [
+    "accepting unfulfilling job",
+    "fear of change"
+  ],
+  "reverse_finances_meaning": [
+    "choosing financial security over happiness"
+  ]
+}

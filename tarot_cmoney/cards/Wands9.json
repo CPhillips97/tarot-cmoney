@@ -1,0 +1,58 @@
+{
+  "suit": "Wands",
+  "name": "Nine of Wands",
+  "upright_meanings_1": [
+    "resilience",
+    "grit",
+    "last stand"
+  ],
+  "upright_meanings_2": [
+    "last stand",
+    "persistence",
+    "grit",
+    "resilience",
+    "perseverance",
+    "close to success",
+    "fatigue"
+  ],
+  "upright_love_meaning": [
+    "love requiring hard work",
+    "love isn\u2019t easy",
+    "self-improvement"
+  ],
+  "upright_career_meaning": [
+    "exhaustion from work",
+    "project nearly complete",
+    "feeling drained"
+  ],
+  "upright_finances_meaning": [
+    "financial pressure",
+    "economic duress",
+    "temporary pressure"
+  ],
+  "reverse_meanings_1": [
+    "exhaustion",
+    "fatigue",
+    "questioning motivations"
+  ],
+  "reverse_meanings_2": [
+    "stubbornness",
+    "rigidity",
+    "defensiveness",
+    "refusing compromise",
+    "giving up"
+  ],
+  "reverse_love_meaning": [
+    "relationship failing despite putting in work",
+    "one partner putting in work"
+  ],
+  "reverse_career_meaning": [
+    "feeling drained and fatigued at work",
+    "struggling at work",
+    "nearing burnout"
+  ],
+  "reverse_finances_meaning": [
+    "avoiding financial pressure",
+    "trying to escape financial stress"
+  ]
+}

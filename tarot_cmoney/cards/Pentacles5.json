@@ -1,0 +1,62 @@
+{
+  "suit": "Pentacles",
+  "name": "Five of Pentacles",
+  "upright_meanings_1": [
+    "need",
+    "poverty",
+    "insecurity"
+  ],
+  "upright_meanings_2": [
+    "hardship",
+    "loss",
+    "isolation",
+    "feeling abandoned",
+    "adversity",
+    "struggle",
+    "unemployment",
+    "alienation",
+    "disgrace"
+  ],
+  "upright_love_meaning": [
+    "isolation",
+    "loneliness",
+    "feeling distant",
+    "depression"
+  ],
+  "upright_career_meaning": [
+    "work hardships",
+    "isolation from colleagues",
+    "outcast"
+  ],
+  "upright_finances_meaning": [
+    "poverty",
+    "debt",
+    "bankruptcy",
+    "tight finances"
+  ],
+  "reverse_meanings_1": [
+    "recovery",
+    "charity",
+    "improvement"
+  ],
+  "reverse_meanings_2": [
+    "positive changes",
+    "recovery from loss",
+    "overcoming adversity",
+    "forgiveness",
+    "feeling welcomed"
+  ],
+  "reverse_love_meaning": [
+    "improved love life",
+    "opening yourself to others"
+  ],
+  "reverse_career_meaning": [
+    "friendship at work",
+    "end of work hardships"
+  ],
+  "reverse_finances_meaning": [
+    "recovery from loss",
+    "saving",
+    "paying debts"
+  ]
+}

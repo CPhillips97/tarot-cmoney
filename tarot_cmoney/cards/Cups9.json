@@ -1,0 +1,60 @@
+{
+  "suit": "Cups",
+  "name": "Nine of Cups",
+  "upright_meanings_1": [
+    "satisfaction",
+    "emotional stability",
+    "luxury"
+  ],
+  "upright_meanings_2": [
+    "wishes coming true",
+    "contentment",
+    "satisfaction",
+    "success",
+    "achievements",
+    "recognition",
+    "pleasure"
+  ],
+  "upright_love_meaning": [
+    "appreciating current love life",
+    "positivity leading to romance",
+    "cheerful romance"
+  ],
+  "upright_career_meaning": [
+    "satisfying career",
+    "recognition and respect at work",
+    "avoid being overconfident"
+  ],
+  "upright_finances_meaning": [
+    "abundance",
+    "financial comfort",
+    "financial security",
+    "material rewards"
+  ],
+  "reverse_meanings_1": [
+    "lack of inner joy",
+    "smugness",
+    "dissatisfaction"
+  ],
+  "reverse_meanings_2": [
+    "unhappiness",
+    "lack of fulfilment",
+    "disappointment",
+    "underachievement",
+    "arrogance",
+    "snobbery"
+  ],
+  "reverse_love_meaning": [
+    "lack of deeper connection",
+    "superficial relationship",
+    "inner work needed"
+  ],
+  "reverse_career_meaning": [
+    "dream job not what you expected",
+    "career expectations not met"
+  ],
+  "reverse_finances_meaning": [
+    "failed financial goals",
+    "no returns on investing your resources"
+  ]
+}

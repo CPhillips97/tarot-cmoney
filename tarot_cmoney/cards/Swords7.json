@@ -1,0 +1,60 @@
+{
+  "suit": "Swords",
+  "name": "Seven of Swords",
+  "upright_meanings_1": [
+    "deception",
+    "trickery",
+    "tactics and strategy"
+  ],
+  "upright_meanings_2": [
+    "lies",
+    "trickery",
+    "scheming",
+    "strategy",
+    "resourcefulness,sneakiness",
+    "cunning"
+  ],
+  "upright_love_meaning": [
+    "lies and deception",
+    "affair",
+    "sparing feelings",
+    "feeling suspicious"
+  ],
+  "upright_career_meaning": [
+    "gossip",
+    "sabotage",
+    "jealousy at work",
+    "working strategically"
+  ],
+  "upright_finances_meaning": [
+    "shady business deals",
+    "fraud",
+    "theft",
+    "scams"
+  ],
+  "reverse_meanings_1": [
+    "coming clean",
+    "rethinking approach",
+    "deception"
+  ],
+  "reverse_meanings_2": [
+    "confession",
+    "conscience",
+    "regret",
+    "maliciousness",
+    "truth revealed"
+  ],
+  "reverse_love_meaning": [
+    "lies revealed",
+    "end of playing games",
+    "dropping pretension"
+  ],
+  "reverse_career_meaning": [
+    "liars exposed",
+    "consequences of actions",
+    "changing approach"
+  ],
+  "reverse_finances_meaning": [
+    "consequences of dishonesty in finances"
+  ]
+}

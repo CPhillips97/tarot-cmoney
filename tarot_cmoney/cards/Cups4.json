@@ -1,0 +1,57 @@
+{
+  "suit": "Cups",
+  "name": "Four of Cups",
+  "upright_meanings_1": [
+    "apathy",
+    "contemplation",
+    "disconnectedness"
+  ],
+  "upright_meanings_2": [
+    "apathy",
+    "contemplation",
+    "feeling disconnected",
+    "melancholy",
+    "boredom",
+    "indifference",
+    "discontent"
+  ],
+  "upright_love_meaning": [
+    "bored with love life",
+    "lack of excitement in relationship"
+  ],
+  "upright_career_meaning": [
+    "bored with job",
+    "feeling unhappy with job or career",
+    "lack of progress"
+  ],
+  "upright_finances_meaning": [
+    "feeling disillusioned with money",
+    "envious of others"
+  ],
+  "reverse_meanings_1": [
+    "sudden awareness",
+    "choosing happiness",
+    "acceptance"
+  ],
+  "reverse_meanings_2": [
+    "clarity",
+    "awareness",
+    "acceptance",
+    "choosing happiness",
+    "depression",
+    "negativity"
+  ],
+  "reverse_love_meaning": [
+    "being more active in love",
+    "new understanding of love"
+  ],
+  "reverse_career_meaning": [
+    "new inspiration or creativity",
+    "realizations about career",
+    "adjustments"
+  ],
+  "reverse_finances_meaning": [
+    "positive approach to finances",
+    "willpower to achieve financial goals"
+  ]
+}

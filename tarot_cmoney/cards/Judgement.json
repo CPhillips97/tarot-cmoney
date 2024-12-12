@@ -1,0 +1,52 @@
+{
+  "suit": "MajorArcana",
+  "name": "Judgement",
+  "upright_meanings_1": [
+    "reflection",
+    "reckoning",
+    "awakening"
+  ],
+  "upright_meanings_2": [
+    "self-evaluation",
+    "awakening",
+    "renewal",
+    "purpose",
+    "reflection",
+    "reckoning"
+  ],
+  "upright_love_meaning": [
+    "renewal of love",
+    "making adjustments in relationship"
+  ],
+  "upright_career_meaning": [
+    "finding career purpose",
+    "accountability at work"
+  ],
+  "upright_finances_meaning": [
+    "reflecting on financial habits",
+    "reflecting on your values"
+  ],
+  "reverse_meanings_1": [
+    "lack of self awareness",
+    "doubt",
+    "self loathing"
+  ],
+  "reverse_meanings_2": [
+    "self-doubt",
+    "lack of self-awareness",
+    "failure to learn lessons",
+    "self-loathing"
+  ],
+  "reverse_love_meaning": [
+    "blaming your partner",
+    "denial about love life"
+  ],
+  "reverse_career_meaning": [
+    "self-doubt at work",
+    "failure to take responsibility for mistakes"
+  ],
+  "reverse_finances_meaning": [
+    "failure to learn financial lessons",
+    "too self-denying"
+  ]
+}

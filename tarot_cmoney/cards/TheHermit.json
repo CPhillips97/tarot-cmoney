@@ -1,0 +1,55 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Hermit",
+  "upright_meanings_1": [
+    "contemplation",
+    "search for truth",
+    "inner guidance"
+  ],
+  "upright_meanings_2": [
+    "self-reflection",
+    "introspection",
+    "contemplation",
+    "withdrawal",
+    "solitude",
+    "search for self"
+  ],
+  "upright_love_meaning": [
+    "pause in love life to introspect",
+    "self-understanding in love"
+  ],
+  "upright_career_meaning": [
+    "contemplating next steps in career",
+    "searching for purpose in career"
+  ],
+  "upright_finances_meaning": [
+    "contemplating role of finances in happiness",
+    "less focus on material things"
+  ],
+  "reverse_meanings_1": [
+    "loneliness",
+    "isolation",
+    "lost your way"
+  ],
+  "reverse_meanings_2": [
+    "loneliness",
+    "isolation",
+    "recluse",
+    "being anti-social",
+    "rejection",
+    "returning to society"
+  ],
+  "reverse_love_meaning": [
+    "romantic rejection",
+    "loneliness",
+    "feeling distant from partner"
+  ],
+  "reverse_career_meaning": [
+    "realigning career to internal goals",
+    "outcast at work",
+    "working alone"
+  ],
+  "reverse_finances_meaning": [
+    "better understanding of material situation"
+  ]
+}

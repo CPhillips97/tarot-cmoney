@@ -1,0 +1,58 @@
+{
+  "suit": "Wands",
+  "name": "Five of Wands",
+  "upright_meanings_1": [
+    "competition",
+    "rivalry",
+    "conflict"
+  ],
+  "upright_meanings_2": [
+    "conflict",
+    "competition",
+    "arguments",
+    "aggression",
+    "tension",
+    "rivals",
+    "clashes of ego"
+  ],
+  "upright_love_meaning": [
+    "competition between suitors",
+    "conflict between lovers",
+    "playful banter"
+  ],
+  "upright_career_meaning": [
+    "competition between colleagues",
+    "competitive work environment",
+    "conflict"
+  ],
+  "upright_finances_meaning": [
+    "financial instability",
+    "conflicts about money"
+  ],
+  "reverse_meanings_1": [
+    "avoiding conflict",
+    "respecting differences"
+  ],
+  "reverse_meanings_2": [
+    "end of conflict",
+    "cooperation",
+    "agreements",
+    "truces",
+    "harmony",
+    "peace",
+    "avoiding conflict"
+  ],
+  "reverse_love_meaning": [
+    "avoiding conflict",
+    "trying to keep peace in relationship",
+    "resolution"
+  ],
+  "reverse_career_meaning": [
+    "competition or conflict at workplace is resolved",
+    "avoiding work conflict"
+  ],
+  "reverse_finances_meaning": [
+    "peace after financial stress",
+    "escalation in conflicts about money"
+  ]
+}

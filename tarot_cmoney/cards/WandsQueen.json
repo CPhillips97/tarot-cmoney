@@ -1,0 +1,61 @@
+{
+  "suit": "Wands",
+  "name": "Queen of Wands",
+  "upright_meanings_1": [
+    "courage",
+    "determination",
+    "joy"
+  ],
+  "upright_meanings_2": [
+    "confident",
+    "self-assured",
+    "passionate",
+    "determined",
+    "social",
+    "charismatic",
+    "vivacious",
+    "optimistic"
+  ],
+  "upright_love_meaning": [
+    "independent",
+    "cheerful and confident lover",
+    "openness in relationship"
+  ],
+  "upright_career_meaning": [
+    "determination and passion at work",
+    "inspiring or leading others"
+  ],
+  "upright_finances_meaning": [
+    "strong financial decisions",
+    "confidence making financial decisions"
+  ],
+  "reverse_meanings_1": [
+    "selfishness",
+    "jealousy",
+    "insecurities"
+  ],
+  "reverse_meanings_2": [
+    "demanding",
+    "vengeful",
+    "low confidence",
+    "jealous",
+    "selfish",
+    "temperamental",
+    "bully"
+  ],
+  "reverse_love_meaning": [
+    "selfish and demanding lover",
+    "jealousy",
+    "dominating lover",
+    "arguments"
+  ],
+  "reverse_career_meaning": [
+    "lack of motivation in career",
+    "selfish or jealous colleague"
+  ],
+  "reverse_finances_meaning": [
+    "bad financial decisions",
+    "greediness",
+    "overspending"
+  ]
+}

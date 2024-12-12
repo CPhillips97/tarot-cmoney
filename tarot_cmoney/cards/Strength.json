@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "Strength",
+  "upright_meanings_1": [
+    "inner strength",
+    "bravery",
+    "compassion",
+    "focus"
+  ],
+  "upright_meanings_2": [
+    "courage",
+    "bravery",
+    "confidence",
+    "compassion",
+    "self-confidence",
+    "inner power"
+  ],
+  "upright_love_meaning": [
+    "confidence drawing lovers",
+    "strong caring relationship"
+  ],
+  "upright_career_meaning": [
+    "self mastery at work",
+    "bold career moves",
+    "taking big steps"
+  ],
+  "upright_finances_meaning": [
+    "large purchases",
+    "controlled spending"
+  ],
+  "reverse_meanings_1": [
+    "self doubt",
+    "weakness",
+    "insecurity"
+  ],
+  "reverse_meanings_2": [
+    "self-doubt",
+    "weakness",
+    "low confidence",
+    "inadequacy",
+    "cowardice",
+    "forcefulness"
+  ],
+  "reverse_love_meaning": [
+    "self esteem issues",
+    "insecurity",
+    "negativity about love"
+  ],
+  "reverse_career_meaning": [
+    "impostor syndrome",
+    "insecurity",
+    "fear of making big moves"
+  ],
+  "reverse_finances_meaning": [
+    "compulsive spending",
+    "hesitancy about spending"
+  ]
+}

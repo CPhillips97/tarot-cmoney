@@ -1,0 +1,54 @@
+{
+  "suit": "Swords",
+  "name": "Two of Swords",
+  "upright_meanings_1": [
+    "difficult choices",
+    "indecision",
+    "stalemate"
+  ],
+  "upright_meanings_2": [
+    "stalemate",
+    "difficult choices",
+    "stuck in the middle",
+    "denial",
+    "hidden information"
+  ],
+  "upright_love_meaning": [
+    "choosing between lovers",
+    "choosing between love / family / work"
+  ],
+  "upright_career_meaning": [
+    "choosing between career paths",
+    "conflicts at work",
+    "taking sides"
+  ],
+  "upright_finances_meaning": [
+    "avoiding financial decisions",
+    "unclear finances"
+  ],
+  "reverse_meanings_1": [
+    "lesser of two evils",
+    "no right choice",
+    "confusion"
+  ],
+  "reverse_meanings_2": [
+    "indecision",
+    "hesitancy",
+    "anxiety",
+    "too much information",
+    "no right choice",
+    "truth revealed"
+  ],
+  "reverse_love_meaning": [
+    "no suitor is right for you",
+    "can\u2019t prioritize love / family / work"
+  ],
+  "reverse_career_meaning": [
+    "choices with no winner",
+    "stressful decisions"
+  ],
+  "reverse_finances_meaning": [
+    "realizing truth",
+    "accepting financial position"
+  ]
+}

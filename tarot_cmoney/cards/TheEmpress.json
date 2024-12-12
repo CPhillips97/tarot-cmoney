@@ -1,0 +1,64 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Empress",
+  "upright_meanings_1": [
+    "motherhood",
+    "fertility",
+    "nature"
+  ],
+  "upright_meanings_2": [
+    "divine feminine",
+    "sensuality",
+    "fertility",
+    "nurturing",
+    "creativity",
+    "beauty",
+    "abundance",
+    "nature"
+  ],
+  "upright_love_meaning": [
+    "nurturing",
+    "supportive lover",
+    "sensual committed relationship"
+  ],
+  "upright_career_meaning": [
+    "nurturing colleagues",
+    "freshening up office",
+    "creative period at work"
+  ],
+  "upright_finances_meaning": [
+    "material comfort",
+    "giving",
+    "sharing material wealth",
+    "generosity"
+  ],
+  "reverse_meanings_1": [
+    "dependence",
+    "smothering",
+    "emptiness",
+    "nosiness"
+  ],
+  "reverse_meanings_2": [
+    "insecurity",
+    "overbearing",
+    "negligence",
+    "smothering",
+    "lack of growth",
+    "lack of progress"
+  ],
+  "reverse_love_meaning": [
+    "lack of self worth",
+    "jealous",
+    "clingy lover",
+    "lack of progress in love"
+  ],
+  "reverse_career_meaning": [
+    "feeling insecure at work",
+    "not growing skills",
+    "stale job"
+  ],
+  "reverse_finances_meaning": [
+    "feeling insecure about finances",
+    "despite being stable"
+  ]
+}

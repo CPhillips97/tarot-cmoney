@@ -1,0 +1,60 @@
+{
+  "suit": "Swords",
+  "name": "Ace of Swords",
+  "upright_meanings_1": [
+    "breakthrough",
+    "clarity",
+    "sharp mind"
+  ],
+  "upright_meanings_2": [
+    "clarity",
+    "breakthrough",
+    "new idea",
+    "concentration",
+    "vision",
+    "force",
+    "focus",
+    "truth"
+  ],
+  "upright_love_meaning": [
+    "attracted to discussion",
+    "facing problems honestly",
+    "communication"
+  ],
+  "upright_career_meaning": [
+    "stimulating work environment",
+    "clear communication",
+    "focus"
+  ],
+  "upright_finances_meaning": [
+    "think rationally",
+    "avoid emotional decisions with money"
+  ],
+  "reverse_meanings_1": [
+    "confusion",
+    "brutality",
+    "chaos"
+  ],
+  "reverse_meanings_2": [
+    "confusion",
+    "miscommunication",
+    "hostility",
+    "arguments",
+    "destruction",
+    "brutality"
+  ],
+  "reverse_love_meaning": [
+    "failure to communicate",
+    "clashing perspectives",
+    "painful words"
+  ],
+  "reverse_career_meaning": [
+    "failure to communicate",
+    "unable to express thoughts clearly",
+    "boredom"
+  ],
+  "reverse_finances_meaning": [
+    "double check finances",
+    "statements or legal documents"
+  ]
+}

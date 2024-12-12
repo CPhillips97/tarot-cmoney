@@ -1,0 +1,64 @@
+{
+  "suit": "Wands",
+  "name": "Knight of Wands",
+  "upright_meanings_1": [
+    "action",
+    "adventure",
+    "fearlessness"
+  ],
+  "upright_meanings_2": [
+    "courageous",
+    "energetic",
+    "charming",
+    "hero",
+    "rebellious",
+    "hot tempered",
+    "free spirit"
+  ],
+  "upright_love_meaning": [
+    "fearless",
+    "courageous lover",
+    "difficult to commit",
+    "rash",
+    "erratic relationship"
+  ],
+  "upright_career_meaning": [
+    "passion and energy for work",
+    "brave decisions",
+    "new business favored"
+  ],
+  "upright_finances_meaning": [
+    "sudden influx of money",
+    "using finances for travel",
+    "expanding horizons"
+  ],
+  "reverse_meanings_1": [
+    "anger",
+    "impulsiveness",
+    "recklessness"
+  ],
+  "reverse_meanings_2": [
+    "arrogant",
+    "reckless",
+    "impatient",
+    "lack of self control",
+    "passive",
+    "volatile",
+    "domineering"
+  ],
+  "reverse_love_meaning": [
+    "running from commitment",
+    "impatience",
+    "unstable relationship"
+  ],
+  "reverse_career_meaning": [
+    "lacking direction in career",
+    "rushing through jobs",
+    "unreliable work"
+  ],
+  "reverse_finances_meaning": [
+    "overconfident about money",
+    "wasting funds",
+    "financial loss"
+  ]
+}

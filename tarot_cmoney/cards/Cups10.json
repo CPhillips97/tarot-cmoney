@@ -1,0 +1,58 @@
+{
+  "suit": "Cups",
+  "name": "Ten of Cups",
+  "upright_meanings_1": [
+    "inner happiness",
+    "fulfillment",
+    "dreams coming true"
+  ],
+  "upright_meanings_2": [
+    "happiness",
+    "homecomings",
+    "fulfillment",
+    "emotional stability",
+    "security",
+    "domestic harmony"
+  ],
+  "upright_love_meaning": [
+    "commitment",
+    "taking next step in relationship",
+    "long term stability",
+    "lasting relationship"
+  ],
+  "upright_career_meaning": [
+    "feeling of belonging at work",
+    "camaraderie between colleagues",
+    "fulfilling and supportive job"
+  ],
+  "upright_finances_meaning": [
+    "financial stability and security",
+    "a feeling of having enough"
+  ],
+  "reverse_meanings_1": [
+    "shattered dreams",
+    "broken family",
+    "domestic disharmony"
+  ],
+  "reverse_meanings_2": [
+    "unhappy home",
+    "separation",
+    "domestic conflict",
+    "disharmony",
+    "isolation\u200b"
+  ],
+  "reverse_love_meaning": [
+    "meddling relatives",
+    "a short fling",
+    "external forces affecting relationship"
+  ],
+  "reverse_career_meaning": [
+    "hostile workplace",
+    "tensions between colleagues",
+    "isolation at workplace"
+  ],
+  "reverse_finances_meaning": [
+    "arguments with family over finances",
+    "financial instability"
+  ]
+}

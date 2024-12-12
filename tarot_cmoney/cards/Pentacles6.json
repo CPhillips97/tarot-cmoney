@@ -1,0 +1,60 @@
+{
+  "suit": "Pentacles",
+  "name": "Six of Pentacles",
+  "upright_meanings_1": [
+    "charity",
+    "generosity",
+    "sharing"
+  ],
+  "upright_meanings_2": [
+    "generosity",
+    "charity",
+    "community",
+    "material help",
+    "support",
+    "sharing",
+    "giving and receiving",
+    "gratitude"
+  ],
+  "upright_love_meaning": [
+    "supportive relationship",
+    "generous lover"
+  ],
+  "upright_career_meaning": [
+    "mentor",
+    "being a valued employee",
+    "investors"
+  ],
+  "upright_finances_meaning": [
+    "financial support",
+    "donations"
+  ],
+  "reverse_meanings_1": [
+    "strings attached",
+    "stinginess",
+    "power and domination"
+  ],
+  "reverse_meanings_2": [
+    "power dynamics",
+    "abuse of generosity",
+    "strings attached gifts",
+    "inequality",
+    "extortion"
+  ],
+  "reverse_love_meaning": [
+    "unfair power dynamics",
+    "taking advantage of love",
+    "controlling lover"
+  ],
+  "reverse_career_meaning": [
+    "hidden agendas",
+    "quid pro quo",
+    "sucking up to bosses"
+  ],
+  "reverse_finances_meaning": [
+    "lack of help",
+    "unfair loans",
+    "gifts with strings attached",
+    "resentment"
+  ]
+}

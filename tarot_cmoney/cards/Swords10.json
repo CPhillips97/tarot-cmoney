@@ -1,0 +1,61 @@
+{
+  "suit": "Swords",
+  "name": "Ten of Swords",
+  "upright_meanings_1": [
+    "failure",
+    "collapse",
+    "defeat"
+  ],
+  "upright_meanings_2": [
+    "ruin",
+    "failure",
+    "bitterness",
+    "collapse",
+    "exhaustion",
+    "dead end",
+    "victimization",
+    "betrayal"
+  ],
+  "upright_love_meaning": [
+    "breakup",
+    "separation",
+    "sadness",
+    "grief",
+    "pain",
+    "infidelity"
+  ],
+  "upright_career_meaning": [
+    "loss of job",
+    "office politics",
+    "breakdown from stress",
+    "burnout"
+  ],
+  "upright_finances_meaning": [
+    "financial loss",
+    "failed investment"
+  ],
+  "reverse_meanings_1": [
+    "can't get worse",
+    "only upwards",
+    "inevitable end"
+  ],
+  "reverse_meanings_2": [
+    "survival",
+    "improvement",
+    "healing",
+    "lessons learned",
+    "despair",
+    "relapse"
+  ],
+  "reverse_love_meaning": [
+    "healing from past",
+    "putting relationship back together"
+  ],
+  "reverse_career_meaning": [
+    "changed jobs",
+    "found less stressful work"
+  ],
+  "reverse_finances_meaning": [
+    "avoided financial ruin or bankruptcy"
+  ]
+}

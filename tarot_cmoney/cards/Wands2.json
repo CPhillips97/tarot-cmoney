@@ -1,0 +1,55 @@
+{
+  "suit": "Wands",
+  "name": "Two of Wands",
+  "upright_meanings_1": [
+    "planning",
+    "making decisions",
+    "leaving home"
+  ],
+  "upright_meanings_2": [
+    "planning",
+    "first steps",
+    "making decisions",
+    "leaving comfort",
+    "taking risks"
+  ],
+  "upright_love_meaning": [
+    "setting romantic goals",
+    "making plans in love",
+    "planning future together"
+  ],
+  "upright_career_meaning": [
+    "planning your career",
+    "taking first steps in your career",
+    "envisioning dreams"
+  ],
+  "upright_finances_meaning": [
+    "planning your long term financial future",
+    "laying foundations"
+  ],
+  "reverse_meanings_1": [
+    "fear of change",
+    "playing safe",
+    "bad planning"
+  ],
+  "reverse_meanings_2": [
+    "bad planning",
+    "overanalyzing",
+    "not taking action",
+    "playing it safe",
+    "avoiding risk"
+  ],
+  "reverse_love_meaning": [
+    "failed romantic plans",
+    "lack of long term prospects or ideas of future"
+  ],
+  "reverse_career_meaning": [
+    "unexpected obstacles in career",
+    "overanalyzing",
+    "not taking action on plans"
+  ],
+  "reverse_finances_meaning": [
+    "lack of control regarding finances",
+    "failed financial planning"
+  ]
+}

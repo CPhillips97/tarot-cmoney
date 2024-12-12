@@ -1,0 +1,53 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Chariot",
+  "upright_meanings_1": [
+    "direction",
+    "control",
+    "willpower"
+  ],
+  "upright_meanings_2": [
+    "success",
+    "ambition",
+    "determination",
+    "willpower",
+    "control",
+    "self-discipline",
+    "focus"
+  ],
+  "upright_love_meaning": [
+    "taking action on love",
+    "taking control of love life"
+  ],
+  "upright_career_meaning": [
+    "strong ambitions",
+    "motivation and control at work"
+  ],
+  "upright_finances_meaning": [
+    "determination to reach financial goals"
+  ],
+  "reverse_meanings_1": [
+    "lack of control",
+    "lack of direction",
+    "aggression"
+  ],
+  "reverse_meanings_2": [
+    "forceful",
+    "no direction",
+    "no control",
+    "powerless",
+    "aggression",
+    "obstacles"
+  ],
+  "reverse_love_meaning": [
+    "obsession with finding love",
+    "forcefulness in love"
+  ],
+  "reverse_career_meaning": [
+    "lack of ambition",
+    "too aggressive in career goals"
+  ],
+  "reverse_finances_meaning": [
+    "rushing into or hesitant about financial decisions"
+  ]
+}

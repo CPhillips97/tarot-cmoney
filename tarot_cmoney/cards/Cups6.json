@@ -1,0 +1,58 @@
+{
+  "suit": "Cups",
+  "name": "Six of Cups",
+  "upright_meanings_1": [
+    "familiarity",
+    "happy memories",
+    "healing"
+  ],
+  "upright_meanings_2": [
+    "nostalgia",
+    "memories",
+    "familiarity",
+    "healing",
+    "comfort",
+    "sentimentality",
+    "pleasure"
+  ],
+  "upright_love_meaning": [
+    "reconnecting with ex",
+    "reliving happy memories",
+    "healing after breakup"
+  ],
+  "upright_career_meaning": [
+    "returning to previous work",
+    "not repeating past mistakes",
+    "learning career lessons"
+  ],
+  "upright_finances_meaning": [
+    "moving back in with parents",
+    "financial gifts",
+    "sharing finances"
+  ],
+  "reverse_meanings_1": [
+    "moving forward",
+    "leaving home",
+    "independence"
+  ],
+  "reverse_meanings_2": [
+    "stuck in past",
+    "moving forward",
+    "leaving home",
+    "independence"
+  ],
+  "reverse_love_meaning": [
+    "unable to move on",
+    "clinging to past loves",
+    "failure to live in present"
+  ],
+  "reverse_career_meaning": [
+    "leaving comfort of job",
+    "staying in stale job",
+    "repeating negative patterns"
+  ],
+  "reverse_finances_meaning": [
+    "financially independent",
+    "leaving parental home"
+  ]
+}

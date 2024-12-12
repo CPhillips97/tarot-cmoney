@@ -1,0 +1,62 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Emperor",
+  "upright_meanings_1": [
+    "authority",
+    "structure",
+    "control",
+    "fatherhood"
+  ],
+  "upright_meanings_2": [
+    "stability",
+    "structure",
+    "protection",
+    "authority",
+    "control",
+    "practicality",
+    "focus",
+    "discipline"
+  ],
+  "upright_love_meaning": [
+    "traditional relationship",
+    "use logic in love",
+    "unexpressed emotions"
+  ],
+  "upright_career_meaning": [
+    "creating processes",
+    "structure",
+    "discipline",
+    "routine",
+    "mentor"
+  ],
+  "upright_finances_meaning": [
+    "being disciplined about money"
+  ],
+  "reverse_meanings_1": [
+    "tyranny",
+    "rigidity",
+    "coldness"
+  ],
+  "reverse_meanings_2": [
+    "tyrant",
+    "domineering",
+    "rigid",
+    "stubborn",
+    "lack of discipline",
+    "recklessness"
+  ],
+  "reverse_love_meaning": [
+    "power struggle",
+    "competitiveness",
+    "overbearing partner"
+  ],
+  "reverse_career_meaning": [
+    "low concentration or focus",
+    "bureaucracy",
+    "bad boss"
+  ],
+  "reverse_finances_meaning": [
+    "not disciplined about money",
+    "out of control finances"
+  ]
+}

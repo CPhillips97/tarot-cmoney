@@ -1,0 +1,60 @@
+{
+  "suit": "Wands",
+  "name": "Ace of Wands",
+  "upright_meanings_1": [
+    "creation",
+    "willpower",
+    "inspiration",
+    "desire"
+  ],
+  "upright_meanings_2": [
+    "inspiration",
+    "creative spark",
+    "new initiative",
+    "new passion",
+    "enthusiasm",
+    "energy"
+  ],
+  "upright_love_meaning": [
+    "excitement and passion in love",
+    "flirtation",
+    "romance",
+    "attraction"
+  ],
+  "upright_career_meaning": [
+    "inspired at work",
+    "creative projects",
+    "passion for work"
+  ],
+  "upright_finances_meaning": [
+    "financial relief",
+    "end to struggles",
+    "inspiration in making money"
+  ],
+  "reverse_meanings_1": [
+    "lack of energy",
+    "lack of passion",
+    "boredom"
+  ],
+  "reverse_meanings_2": [
+    "delays",
+    "blocks",
+    "lack of passion",
+    "lack of energy",
+    "hesitancy",
+    "creative blocks"
+  ],
+  "reverse_love_meaning": [
+    "short-term passionate love affair",
+    "lack of excitement in love"
+  ],
+  "reverse_career_meaning": [
+    "lacking inspiration at work",
+    "feeling uncreative",
+    "lack of progress"
+  ],
+  "reverse_finances_meaning": [
+    "risky financial decisions",
+    "financial losses"
+  ]
+}

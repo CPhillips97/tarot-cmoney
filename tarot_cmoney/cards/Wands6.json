@@ -1,0 +1,58 @@
+{
+  "suit": "Wands",
+  "name": "Six of Wands",
+  "upright_meanings_1": [
+    "victory",
+    "success",
+    "public reward"
+  ],
+  "upright_meanings_2": [
+    "success",
+    "victory",
+    "triumph",
+    "rewards",
+    "recognition",
+    "praise",
+    "acclaim",
+    "pride"
+  ],
+  "upright_love_meaning": [
+    "success at love",
+    "fulfilling a relationship goal"
+  ],
+  "upright_career_meaning": [
+    "career achievement",
+    "project completion",
+    "being rewarded"
+  ],
+  "upright_finances_meaning": [
+    "financial stability",
+    "financial rewards"
+  ],
+  "reverse_meanings_1": [
+    "excess pride",
+    "lack of recognition",
+    "punishment"
+  ],
+  "reverse_meanings_2": [
+    "failure",
+    "lack of recognition",
+    "no rewards",
+    "lack of achievement"
+  ],
+  "reverse_love_meaning": [
+    "feeling unloved",
+    "feeling neglected",
+    "being overlooked"
+  ],
+  "reverse_career_meaning": [
+    "failed work project",
+    "unrewarded work",
+    "unmet career goal"
+  ],
+  "reverse_finances_meaning": [
+    "financial loss",
+    "failed investment",
+    "bad purchase"
+  ]
+}

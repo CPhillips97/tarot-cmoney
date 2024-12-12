@@ -1,0 +1,63 @@
+{
+  "suit": "Swords",
+  "name": "Three of Swords",
+  "upright_meanings_1": [
+    "heartbreak",
+    "suffering",
+    "grief"
+  ],
+  "upright_meanings_2": [
+    "heartbreak",
+    "separation",
+    "sadness",
+    "grief",
+    "sorrow",
+    "upset",
+    "loss",
+    "trauma",
+    "tears"
+  ],
+  "upright_love_meaning": [
+    "breakup",
+    "argument",
+    "conflict",
+    "separation",
+    "sadness and tears"
+  ],
+  "upright_career_meaning": [
+    "conflicts at work",
+    "job loss",
+    "hurt feelings at work",
+    "feeling hopeless"
+  ],
+  "upright_finances_meaning": [
+    "loss of assets",
+    "division of assets after break up"
+  ],
+  "reverse_meanings_1": [
+    "recovery",
+    "forgiveness",
+    "moving on"
+  ],
+  "reverse_meanings_2": [
+    "healing",
+    "forgiveness",
+    "recovery",
+    "reconciliation",
+    "repressing emotions"
+  ],
+  "reverse_love_meaning": [
+    "forgiving one another",
+    "moving on after pain",
+    "separation"
+  ],
+  "reverse_career_meaning": [
+    "putting conflicts behind",
+    "developing better processes"
+  ],
+  "reverse_finances_meaning": [
+    "building savings",
+    "finding stability",
+    "severe grief about finances"
+  ]
+}

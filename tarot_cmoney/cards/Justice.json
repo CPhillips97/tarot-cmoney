@@ -1,0 +1,60 @@
+{
+  "suit": "MajorArcana",
+  "name": "Justice",
+  "upright_meanings_1": [
+    "cause and effect",
+    "clarity",
+    "truth"
+  ],
+  "upright_meanings_2": [
+    "justice",
+    "karma",
+    "consequence",
+    "accountability",
+    "law",
+    "truth",
+    "honesty",
+    "integrity",
+    "cause and effect"
+  ],
+  "upright_love_meaning": [
+    "romantic efforts rewarded",
+    "compromise",
+    "treating partner fairly"
+  ],
+  "upright_career_meaning": [
+    "integrity at work rewarded",
+    "remaining accountable and fair"
+  ],
+  "upright_finances_meaning": [
+    "balancing finances",
+    "balancing giving and taking"
+  ],
+  "reverse_meanings_1": [
+    "dishonesty",
+    "unaccountability",
+    "unfairness"
+  ],
+  "reverse_meanings_2": [
+    "injustice",
+    "retribution",
+    "dishonesty",
+    "corruption",
+    "dishonesty",
+    "unfairness",
+    "avoiding accountability"
+  ],
+  "reverse_love_meaning": [
+    "unfair romantic expectations",
+    "blaming partner unfairly"
+  ],
+  "reverse_career_meaning": [
+    "unfair work environment",
+    "dishonesty in career",
+    "not being accountable"
+  ],
+  "reverse_finances_meaning": [
+    "untrustworthy financial dealings",
+    "avoiding financial accountability"
+  ]
+}

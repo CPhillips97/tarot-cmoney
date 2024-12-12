@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Hanged Man",
+  "upright_meanings_1": [
+    "sacrifice",
+    "release",
+    "martyrdom"
+  ],
+  "upright_meanings_2": [
+    "sacrifice",
+    "waiting",
+    "uncertainty",
+    "lack of direction",
+    "perspective",
+    "contemplation"
+  ],
+  "upright_love_meaning": [
+    "love can\u2019t be rushed",
+    "avoid romantic pressure",
+    "sacrifice for love"
+  ],
+  "upright_career_meaning": [
+    "uncertainty about career",
+    "waiting",
+    "forced break",
+    "thinking of next steps"
+  ],
+  "upright_finances_meaning": [
+    "change in perspective about finances"
+  ],
+  "reverse_meanings_1": [
+    "stalling",
+    "needless sacrifice",
+    "fear of sacrifice"
+  ],
+  "reverse_meanings_2": [
+    "stalling",
+    "disinterest",
+    "stagnation",
+    "avoiding sacrifice",
+    "standstill",
+    "apathy"
+  ],
+  "reverse_love_meaning": [
+    "new perspectives on love",
+    "changes in romantic life"
+  ],
+  "reverse_career_meaning": [
+    "new career move not working",
+    "procrastination",
+    "stalling for time"
+  ],
+  "reverse_finances_meaning": [
+    "indecision",
+    "failed investment",
+    "wasted financial sacrifice"
+  ]
+}

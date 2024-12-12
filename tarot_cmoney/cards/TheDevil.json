@@ -1,0 +1,57 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Devil",
+  "upright_meanings_1": [
+    "addiction",
+    "materialism",
+    "playfulness"
+  ],
+  "upright_meanings_2": [
+    "oppression",
+    "addiction",
+    "obsession",
+    "dependency",
+    "excess",
+    "powerlessness",
+    "limitations"
+  ],
+  "upright_love_meaning": [
+    "lust",
+    "hedonism",
+    "selfish disregard for lover\u2019s feelings",
+    "obsession"
+  ],
+  "upright_career_meaning": [
+    "feeling trapped in job",
+    "blaming colleagues",
+    "self-sabotage"
+  ],
+  "upright_finances_meaning": [
+    "bad financial habits"
+  ],
+  "reverse_meanings_1": [
+    "freedom",
+    "release",
+    "restoring control"
+  ],
+  "reverse_meanings_2": [
+    "independence",
+    "freedom",
+    "revelation",
+    "release",
+    "reclaiming power",
+    "reclaiming control"
+  ],
+  "reverse_love_meaning": [
+    "feeling more in control of love life",
+    "ending co-dependency"
+  ],
+  "reverse_career_meaning": [
+    "more accountability in career path",
+    "feeling empowered at job"
+  ],
+  "reverse_finances_meaning": [
+    "breaking bad financial habits",
+    "feeling independent financially"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "suit": "Wands",
+  "name": "King of Wands",
+  "upright_meanings_1": [
+    "big picture",
+    "leader",
+    "overcoming challenges"
+  ],
+  "upright_meanings_2": [
+    "leadership",
+    "vision",
+    "big picture",
+    "taking control",
+    "daring decisions",
+    "boldness",
+    "optimism"
+  ],
+  "upright_love_meaning": [
+    "energetic",
+    "charismatic lover",
+    "taking the lead in love"
+  ],
+  "upright_career_meaning": [
+    "achievement in career",
+    "respected position",
+    "mentorship"
+  ],
+  "upright_finances_meaning": [
+    "financial stability",
+    "financial wisdom",
+    "generosity to others"
+  ],
+  "reverse_meanings_1": [
+    "impulsive",
+    "overbearing",
+    "unachievable expectations"
+  ],
+  "reverse_meanings_2": [
+    "forceful",
+    "domineering",
+    "tyrant",
+    "vicious",
+    "powerless",
+    "ineffective",
+    "weak leader"
+  ],
+  "reverse_love_meaning": [
+    "arrogant",
+    "bossy lover",
+    "control issues",
+    "forceful lover"
+  ],
+  "reverse_career_meaning": [
+    "lack of leadership at work",
+    "depending on others",
+    "passiveness at work"
+  ],
+  "reverse_finances_meaning": [
+    "not taking charge of your finances",
+    "passiveness",
+    "no financial goals"
+  ]
+}

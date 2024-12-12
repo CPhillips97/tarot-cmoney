@@ -1,0 +1,61 @@
+{
+  "suit": "Cups",
+  "name": "Knight of Cups",
+  "upright_meanings_1": [
+    "following the heart",
+    "idealist",
+    "romantic"
+  ],
+  "upright_meanings_2": [
+    "idealist",
+    "charming",
+    "artistic",
+    "graceful",
+    "tactful",
+    "diplomatic",
+    "mediator",
+    "negotiator"
+  ],
+  "upright_love_meaning": [
+    "romance",
+    "attraction",
+    "flirtation",
+    "being in love with love",
+    "unrealistic expectations of love"
+  ],
+  "upright_career_meaning": [
+    "diplomacy at work",
+    "tactfulness creates better team cohesion",
+    "creative solutions"
+  ],
+  "upright_finances_meaning": [
+    "mediating disputes about finances",
+    "using creativity to achieve financial goals"
+  ],
+  "reverse_meanings_1": [
+    "moodiness",
+    "disappointment"
+  ],
+  "reverse_meanings_2": [
+    "disappointment",
+    "tantrums",
+    "moodiness",
+    "turmoil",
+    "avoiding conflict",
+    "vanity"
+  ],
+  "reverse_love_meaning": [
+    "avoiding conflict in love",
+    "passive aggressive partner",
+    "quickly changing feelings",
+    "false appearances"
+  ],
+  "reverse_career_meaning": [
+    "tensions and moodiness at work",
+    "avoiding work confrontation"
+  ],
+  "reverse_finances_meaning": [
+    "avoiding financial decisions",
+    "financial disappointment"
+  ]
+}

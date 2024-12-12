@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Moon",
+  "upright_meanings_1": [
+    "unconscious",
+    "illusions",
+    "intuition"
+  ],
+  "upright_meanings_2": [
+    "illusion",
+    "intuition",
+    "uncertainty",
+    "confusion",
+    "complexity",
+    "secrets",
+    "unconscious"
+  ],
+  "upright_love_meaning": [
+    "complicated romance",
+    "uncertainty about love or relationship"
+  ],
+  "upright_career_meaning": [
+    "uncertainty around career path",
+    "confusion at job",
+    "lack of information"
+  ],
+  "upright_finances_meaning": [
+    "unclear around financial decisions",
+    "lacking financial knowledge"
+  ],
+  "reverse_meanings_1": [
+    "confusion",
+    "fear",
+    "misinterpretation"
+  ],
+  "reverse_meanings_2": [
+    "fear",
+    "deception",
+    "anxiety",
+    "misunderstanding",
+    "misinterpretation",
+    "clarity",
+    "understanding"
+  ],
+  "reverse_love_meaning": [
+    "deception",
+    "fear and paranoia regarding love"
+  ],
+  "reverse_career_meaning": [
+    "clarity at work",
+    "sabotage",
+    "deception and trickery at workplace"
+  ],
+  "reverse_finances_meaning": [
+    "clarity about finances",
+    "deception regarding finances"
+  ]
+}

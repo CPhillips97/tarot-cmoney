@@ -1,0 +1,64 @@
+{
+  "suit": "Pentacles",
+  "name": "Ten of Pentacles",
+  "upright_meanings_1": [
+    "legacy",
+    "culmination",
+    "inheritance"
+  ],
+  "upright_meanings_2": [
+    "legacy",
+    "roots",
+    "family",
+    "ancestry",
+    "inheritance",
+    "windfall",
+    "foundations",
+    "privilege",
+    "affluence",
+    "stability",
+    "tradition"
+  ],
+  "upright_love_meaning": [
+    "financially stable couple",
+    "relationship milestones",
+    "family approval"
+  ],
+  "upright_career_meaning": [
+    "creating lasting career",
+    "stable future"
+  ],
+  "upright_finances_meaning": [
+    "windfall",
+    "inheritance",
+    "developing stable financial future"
+  ],
+  "reverse_meanings_1": [
+    "fleeting success",
+    "lack of stability",
+    "lack of resources"
+  ],
+  "reverse_meanings_2": [
+    "family disputes",
+    "bankruptcy",
+    "debt",
+    "fleeting success",
+    "conflict over money",
+    "instability",
+    "breaking traditions"
+  ],
+  "reverse_love_meaning": [
+    "conflict between love and family",
+    "outside opinions of love"
+  ],
+  "reverse_career_meaning": [
+    "company dissolution",
+    "debt",
+    "unstable career"
+  ],
+  "reverse_finances_meaning": [
+    "debt",
+    "financial loss",
+    "family disputes over money"
+  ]
+}

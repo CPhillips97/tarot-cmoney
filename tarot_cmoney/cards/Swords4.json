@@ -1,0 +1,58 @@
+{
+  "suit": "Swords",
+  "name": "Four of Swords",
+  "upright_meanings_1": [
+    "rest",
+    "restoration",
+    "contemplation"
+  ],
+  "upright_meanings_2": [
+    "rest",
+    "relaxation",
+    "peace",
+    "sanctuary",
+    "recuperation",
+    "self-protection",
+    "rejuvenation"
+  ],
+  "upright_love_meaning": [
+    "withdrawing from love life",
+    "alone time",
+    "taking a break"
+  ],
+  "upright_career_meaning": [
+    "taking a vacation",
+    "mental health day",
+    "rest",
+    "self-care"
+  ],
+  "upright_finances_meaning": [
+    "anxiety about finances",
+    "avoid overthinking about money"
+  ],
+  "reverse_meanings_1": [
+    "restlessness",
+    "burnout",
+    "stress"
+  ],
+  "reverse_meanings_2": [
+    "recovery",
+    "awakening",
+    "re-entering world",
+    "release from isolation",
+    "restlessness",
+    "burnout"
+  ],
+  "reverse_love_meaning": [
+    "rejection from pressuring lover",
+    "reigniting passions"
+  ],
+  "reverse_career_meaning": [
+    "refreshed from vacation or time off",
+    "burning out"
+  ],
+  "reverse_finances_meaning": [
+    "not accepting support",
+    "recovery from financial pressure"
+  ]
+}

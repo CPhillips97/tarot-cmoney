@@ -1,0 +1,56 @@
+{
+  "suit": "Cups",
+  "name": "Three of Cups",
+  "upright_meanings_1": [
+    "friendship",
+    "community",
+    "happiness"
+  ],
+  "upright_meanings_2": [
+    "friendship",
+    "community",
+    "gatherings",
+    "celebrations",
+    "group events",
+    "social events"
+  ],
+  "upright_love_meaning": [
+    "friendship turning to romance",
+    "social gatherings leading to romance"
+  ],
+  "upright_career_meaning": [
+    "planning a celebration at work",
+    "happy and joyous office environment"
+  ],
+  "upright_finances_meaning": [
+    "spending on social life",
+    "financial stability",
+    "reaching financial milestone"
+  ],
+  "reverse_meanings_1": [
+    "overindulgence",
+    "gossip",
+    "isolation"
+  ],
+  "reverse_meanings_2": [
+    "gossip",
+    "scandal",
+    "excess",
+    "isolation",
+    "loneliness",
+    "solitude",
+    "imbalanced social life"
+  ],
+  "reverse_love_meaning": [
+    "short but exciting romance",
+    "third party coming in between you"
+  ],
+  "reverse_career_meaning": [
+    "work events not going as planned",
+    "destructive office environment"
+  ],
+  "reverse_finances_meaning": [
+    "over spending on social gatherings",
+    "giving beyond your means"
+  ]
+}

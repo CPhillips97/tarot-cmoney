@@ -1,0 +1,59 @@
+{
+  "suit": "Cups",
+  "name": "Two of Cups",
+  "upright_meanings_1": [
+    "unity",
+    "partnership",
+    "connection"
+  ],
+  "upright_meanings_2": [
+    "unity",
+    "partnership",
+    "attraction",
+    "connection",
+    "close bonds",
+    "joining forces",
+    "mutual respect"
+  ],
+  "upright_love_meaning": [
+    "starting a relationship",
+    "mutually beneficial relationship",
+    "working together as a team"
+  ],
+  "upright_career_meaning": [
+    "good relationships with colleagues",
+    "helpful business partnership"
+  ],
+  "upright_finances_meaning": [
+    "balanced finances",
+    "financial security",
+    "not financially stressed"
+  ],
+  "reverse_meanings_1": [
+    "imbalance",
+    "broken communication",
+    "tension"
+  ],
+  "reverse_meanings_2": [
+    "separation",
+    "rejection",
+    "division",
+    "imbalance",
+    "tension",
+    "bad communication",
+    "withdrawal"
+  ],
+  "reverse_love_meaning": [
+    "relationship imbalance",
+    "codependency",
+    "uneven power dynamics"
+  ],
+  "reverse_career_meaning": [
+    "bad business partnerships",
+    "tension and conflict with colleagues"
+  ],
+  "reverse_finances_meaning": [
+    "spending more than you are earning",
+    "going over budget"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "suit": "Wands",
+  "name": "Ten of Wands",
+  "upright_meanings_1": [
+    "accomplishment",
+    "responsibility",
+    "burden"
+  ],
+  "upright_meanings_2": [
+    "burden",
+    "responsibility",
+    "duty",
+    "stress",
+    "obligation",
+    "burning out",
+    "struggles"
+  ],
+  "upright_love_meaning": [
+    "heavy burden of love",
+    "love creates responsibility",
+    "stress creates issues in relationship"
+  ],
+  "upright_career_meaning": [
+    "being overworked",
+    "work burdens being carried alone",
+    "needing help from colleagues"
+  ],
+  "upright_finances_meaning": [
+    "financial burden",
+    "large unavoidable expenses",
+    "struggling daily"
+  ],
+  "reverse_meanings_1": [
+    "inability to delegate",
+    "overstressed",
+    "burnt out"
+  ],
+  "reverse_meanings_2": [
+    "failure to delegate",
+    "shouldering too much responsibility",
+    "collapse",
+    "breakdown"
+  ],
+  "reverse_love_meaning": [
+    "failure to share burdens with partner",
+    "finding emotional support from partner"
+  ],
+  "reverse_career_meaning": [
+    "relief from work burdens",
+    "finding support",
+    "delegating tasks",
+    "burn out"
+  ],
+  "reverse_finances_meaning": [
+    "relief from financial burden",
+    "finding assistance",
+    "deeper economic trouble"
+  ]
+}

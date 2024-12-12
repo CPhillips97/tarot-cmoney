@@ -1,0 +1,63 @@
+{
+  "suit": "Swords",
+  "name": "Queen of Swords",
+  "upright_meanings_1": [
+    "complexity",
+    "perceptiveness",
+    "clear mindedness"
+  ],
+  "upright_meanings_2": [
+    "honest",
+    "independent",
+    "principled",
+    "fair",
+    "constructive criticism",
+    "objective",
+    "perceptive"
+  ],
+  "upright_love_meaning": [
+    "picky about lovers",
+    "independent partner",
+    "boundaries"
+  ],
+  "upright_career_meaning": [
+    "constructive criticism",
+    "wise guidance",
+    "respect in field"
+  ],
+  "upright_finances_meaning": [
+    "acting with logic and reason",
+    "financial clarity"
+  ],
+  "reverse_meanings_1": [
+    "cold hearted",
+    "cruel",
+    "bitterness"
+  ],
+  "reverse_meanings_2": [
+    "pessimistic",
+    "malicious",
+    "manipulative",
+    "harsh",
+    "bitter",
+    "spiteful",
+    "cruel",
+    "deceitful",
+    "unforgiving"
+  ],
+  "reverse_love_meaning": [
+    "trauma",
+    "toxic relationship",
+    "manipulation",
+    "cruelty"
+  ],
+  "reverse_career_meaning": [
+    "cruel coworker",
+    "excessive negativity",
+    "poor communication"
+  ],
+  "reverse_finances_meaning": [
+    "financial confusion",
+    "failure to make logical financial decisions"
+  ]
+}

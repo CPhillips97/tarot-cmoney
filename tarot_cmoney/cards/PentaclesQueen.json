@@ -1,0 +1,67 @@
+{
+  "suit": "Pentacles",
+  "name": "Queen of Pentacles",
+  "upright_meanings_1": [
+    "practicality",
+    "creature comforts",
+    "financial security"
+  ],
+  "upright_meanings_2": [
+    "generous",
+    "caring",
+    "nurturing",
+    "homebody",
+    "good business sense",
+    "practical",
+    "comforting",
+    "welcoming",
+    "sensible",
+    "luxurious"
+  ],
+  "upright_love_meaning": [
+    "stability",
+    "abundance",
+    "nurturing",
+    "kind partner",
+    "domestic comfort"
+  ],
+  "upright_career_meaning": [
+    "talented business person",
+    "mentor",
+    "colleague"
+  ],
+  "upright_finances_meaning": [
+    "financial security",
+    "responsible with finances",
+    "good deals"
+  ],
+  "reverse_meanings_1": [
+    "self-centeredness",
+    "jealousy",
+    "smothering"
+  ],
+  "reverse_meanings_2": [
+    "selfish",
+    "unkempt",
+    "jealous",
+    "insecure",
+    "greedy",
+    "materialistic",
+    "gold digger",
+    "intolerant",
+    "self-absorbed",
+    "envious"
+  ],
+  "reverse_love_meaning": [
+    "shallow and selfish partner",
+    "relationship for wrong reasons"
+  ],
+  "reverse_career_meaning": [
+    "bad business partner",
+    "unreliable or jealous colleague"
+  ],
+  "reverse_finances_meaning": [
+    "money mismanagement",
+    "hoarding"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "suit": "Pentacles",
+  "name": "Nine of Pentacles",
+  "upright_meanings_1": [
+    "fruits of labor",
+    "rewards",
+    "luxury"
+  ],
+  "upright_meanings_2": [
+    "rewarded efforts",
+    "success",
+    "achievement",
+    "independence",
+    "leisure",
+    "material security",
+    "self-sufficiency"
+  ],
+  "upright_love_meaning": [
+    "high standards for partners",
+    "balance of love and independence"
+  ],
+  "upright_career_meaning": [
+    "achievement in career",
+    "hard work paid off",
+    "success"
+  ],
+  "upright_finances_meaning": [
+    "financial abundance",
+    "property purchases"
+  ],
+  "reverse_meanings_1": [
+    "reckless spending",
+    "living beyond means",
+    "false success"
+  ],
+  "reverse_meanings_2": [
+    "being guarded",
+    "living beyond means",
+    "material instability",
+    "reckless spending",
+    "superficiality"
+  ],
+  "reverse_love_meaning": [
+    "fear of giving up independence",
+    "being guarded in love"
+  ],
+  "reverse_career_meaning": [
+    "desire to succeed without work",
+    "no work-life balance"
+  ],
+  "reverse_finances_meaning": [
+    "overspending",
+    "impulse purchases",
+    "desire for easy money"
+  ]
+}

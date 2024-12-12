@@ -1,0 +1,55 @@
+{
+  "suit": "Cups",
+  "name": "Five of Cups",
+  "upright_meanings_1": [
+    "loss",
+    "grief",
+    "self-pity"
+  ],
+  "upright_meanings_2": [
+    "loss",
+    "grief",
+    "disappointment",
+    "sadness",
+    "mourning",
+    "discontent",
+    "feeling let down"
+  ],
+  "upright_love_meaning": [
+    "grieving break up",
+    "time of tension and sadness in relationship"
+  ],
+  "upright_career_meaning": [
+    "taking a step backward in your career",
+    "job loss",
+    "business loss"
+  ],
+  "upright_finances_meaning": [
+    "financial loss",
+    "still things left to salvage"
+  ],
+  "reverse_meanings_1": [
+    "acceptance",
+    "moving on",
+    "finding peace"
+  ],
+  "reverse_meanings_2": [
+    "acceptance",
+    "moving on",
+    "finding peace",
+    "contentment",
+    "seeing positives"
+  ],
+  "reverse_love_meaning": [
+    "moving on from past relationship",
+    "healing from old wounds"
+  ],
+  "reverse_career_meaning": [
+    "job loss leading to better position",
+    "healing from career misstep"
+  ],
+  "reverse_finances_meaning": [
+    "relief from financial loss",
+    "rebuilding financial security"
+  ]
+}

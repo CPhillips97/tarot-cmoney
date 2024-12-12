@@ -1,0 +1,63 @@
+{
+  "suit": "Pentacles",
+  "name": "Eight of Pentacles",
+  "upright_meanings_1": [
+    "apprenticeship",
+    "passion",
+    "high standards"
+  ],
+  "upright_meanings_2": [
+    "skill",
+    "talent",
+    "craftsmanship",
+    "quality",
+    "high standards",
+    "expertise",
+    "mastery",
+    "commitment",
+    "dedication",
+    "accomplishment"
+  ],
+  "upright_love_meaning": [
+    "achieved relationship goal",
+    "cultivating relationship"
+  ],
+  "upright_career_meaning": [
+    "dedication",
+    "promotion",
+    "developing skills",
+    "showing talent"
+  ],
+  "upright_finances_meaning": [
+    "financial rewards",
+    "becoming financially independent"
+  ],
+  "reverse_meanings_1": [
+    "lack of passion",
+    "uninspired",
+    "no motivation"
+  ],
+  "reverse_meanings_2": [
+    "lack of quality",
+    "rushed job",
+    "bad reputation",
+    "lack of motivation",
+    "mediocrity",
+    "laziness",
+    "low skill",
+    "dead-end job"
+  ],
+  "reverse_love_meaning": [
+    "not putting effort into love",
+    "neglecting relationship"
+  ],
+  "reverse_career_meaning": [
+    "little motivation",
+    "tedious job",
+    "low quality work"
+  ],
+  "reverse_finances_meaning": [
+    "careless about finances",
+    "overspending"
+  ]
+}

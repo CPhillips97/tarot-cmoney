@@ -1,0 +1,57 @@
+{
+  "suit": "Cups",
+  "name": "Page of Cups",
+  "upright_meanings_1": [
+    "happy surprise",
+    "dreamer",
+    "sensitivity"
+  ],
+  "upright_meanings_2": [
+    "idealism",
+    "sensitivity",
+    "dreamer",
+    "naivete",
+    "innocence",
+    "inner child",
+    "head in the clouds"
+  ],
+  "upright_love_meaning": [
+    "fresh perspective on relationship",
+    "awe and wonder at love and romance"
+  ],
+  "upright_career_meaning": [
+    "finding a creative outlet at work",
+    "daydreams about career paths"
+  ],
+  "upright_finances_meaning": [
+    "unrealistic financial goals",
+    "daydreams without putting in effort"
+  ],
+  "reverse_meanings_1": [
+    "emotional immaturity",
+    "insecurity",
+    "disappointment"
+  ],
+  "reverse_meanings_2": [
+    "emotional vulnerability",
+    "immaturity",
+    "neglecting inner child",
+    "escapism",
+    "insecurity"
+  ],
+  "reverse_love_meaning": [
+    "a shy",
+    "vulnerable partner",
+    "emotionally immature partner",
+    "insecurity in romance"
+  ],
+  "reverse_career_meaning": [
+    "emotional vulnerability at work",
+    "insecurity at work",
+    "creative blocks"
+  ],
+  "reverse_finances_meaning": [
+    "being in denial about finances",
+    "avoiding financial decisions"
+  ]
+}

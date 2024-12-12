@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Sun",
+  "upright_meanings_1": [
+    "joy",
+    "success",
+    "celebration",
+    "positivity"
+  ],
+  "upright_meanings_2": [
+    "happiness",
+    "success",
+    "optimism",
+    "vitality",
+    "joy",
+    "confidence",
+    "happiness",
+    "truth"
+  ],
+  "upright_love_meaning": [
+    "happiness and love in relationship",
+    "positivity is attractive",
+    "feeling radiant"
+  ],
+  "upright_career_meaning": [
+    "enthusiastic and energetic at work",
+    "successful work projects"
+  ],
+  "upright_finances_meaning": [
+    "strong financial situation"
+  ],
+  "reverse_meanings_1": [
+    "negativity",
+    "depression",
+    "sadness"
+  ],
+  "reverse_meanings_2": [
+    "blocked happiness",
+    "excessive enthusiasm",
+    "pessimism",
+    "unrealistic expectations",
+    "conceitedness"
+  ],
+  "reverse_love_meaning": [
+    "boredom",
+    "taking love for granted",
+    "being unable to see happiness in relationship"
+  ],
+  "reverse_career_meaning": [
+    "failure to appreciate work",
+    "over-confidence at work situations",
+    "unrealistic beliefs"
+  ],
+  "reverse_finances_meaning": [
+    "overly optimistic about finances",
+    "hardships are only temporary"
+  ]
+}

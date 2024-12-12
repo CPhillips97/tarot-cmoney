@@ -1,0 +1,65 @@
+{
+  "suit": "Swords",
+  "name": "Five of Swords",
+  "upright_meanings_1": [
+    "unbridled ambition",
+    "win at all costs",
+    "sneakiness"
+  ],
+  "upright_meanings_2": [
+    "arguments",
+    "disputes",
+    "aggression",
+    "bullying",
+    "intimidation",
+    "conflict",
+    "hostility",
+    "stress"
+  ],
+  "upright_love_meaning": [
+    "tension",
+    "conflict",
+    "arguments",
+    "fights",
+    "irritability",
+    "wanting to be right"
+  ],
+  "upright_career_meaning": [
+    "workplace bully",
+    "intimidation",
+    "defensive attitudes",
+    "hostility"
+  ],
+  "upright_finances_meaning": [
+    "conflicts about money",
+    "being taken advantage of"
+  ],
+  "reverse_meanings_1": [
+    "lingering resentment",
+    "desire to reconcile",
+    "forgiveness"
+  ],
+  "reverse_meanings_2": [
+    "reconciliation",
+    "resolution",
+    "compromise",
+    "revenge",
+    "regret",
+    "remorse",
+    "cutting losses"
+  ],
+  "reverse_love_meaning": [
+    "getting back together",
+    "forgiveness",
+    "breakup"
+  ],
+  "reverse_career_meaning": [
+    "compromises",
+    "open dialogue",
+    "sabotage"
+  ],
+  "reverse_finances_meaning": [
+    "loosening of financial tension",
+    "relief"
+  ]
+}

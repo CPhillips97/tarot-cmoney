@@ -1,0 +1,56 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Wheel of Fortune",
+  "upright_meanings_1": [
+    "change",
+    "cycles",
+    "inevitable fate"
+  ],
+  "upright_meanings_2": [
+    "change",
+    "cycles",
+    "fate",
+    "decisive moments",
+    "luck",
+    "fortune",
+    "unexpected events"
+  ],
+  "upright_love_meaning": [
+    "relationship changes",
+    "navigating change with partner",
+    "making adjustments"
+  ],
+  "upright_career_meaning": [
+    "luck in career",
+    "opportunities present",
+    "adapting to changes at work"
+  ],
+  "upright_finances_meaning": [
+    "changes in material situation",
+    "being flexible with finances"
+  ],
+  "reverse_meanings_1": [
+    "no control",
+    "clinging to control",
+    "bad luck"
+  ],
+  "reverse_meanings_2": [
+    "bad luck",
+    "lack of control",
+    "clinging to control",
+    "unwelcome changes",
+    "delays"
+  ],
+  "reverse_love_meaning": [
+    "external events affecting relationship",
+    "love life out of control"
+  ],
+  "reverse_career_meaning": [
+    "failure to adapt at work",
+    "forcing past solutions"
+  ],
+  "reverse_finances_meaning": [
+    "unexpected financial changes",
+    "preparation"
+  ]
+}

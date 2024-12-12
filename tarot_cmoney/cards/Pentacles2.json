@@ -1,0 +1,56 @@
+{
+  "suit": "Pentacles",
+  "name": "Two of Pentacles",
+  "upright_meanings_1": [
+    "balancing decisions",
+    "priorities",
+    "adapting to change"
+  ],
+  "upright_meanings_2": [
+    "balancing resources",
+    "adaptation",
+    "resourcefulness",
+    "flexibility",
+    "stretching resources"
+  ],
+  "upright_love_meaning": [
+    "balancing love / work / family",
+    "adapting to changes in love"
+  ],
+  "upright_career_meaning": [
+    "juggling work projects",
+    "being resourceful at work"
+  ],
+  "upright_finances_meaning": [
+    "tight finances",
+    "prioritizing bills",
+    "unstable finances"
+  ],
+  "reverse_meanings_1": [
+    "loss of balance",
+    "disorganized",
+    "overwhelmed"
+  ],
+  "reverse_meanings_2": [
+    "imbalance",
+    "unorganized",
+    "overwhelmed",
+    "messiness",
+    "chaos",
+    "overextending"
+  ],
+  "reverse_love_meaning": [
+    "neglecting love",
+    "neglecting partner",
+    "not focused on love"
+  ],
+  "reverse_career_meaning": [
+    "being overworked",
+    "too many projects",
+    "things falling through cracks"
+  ],
+  "reverse_finances_meaning": [
+    "too many bills",
+    "can\u2019t keep up with payments"
+  ]
+}

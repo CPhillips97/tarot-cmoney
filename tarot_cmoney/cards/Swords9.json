@@ -1,0 +1,63 @@
+{
+  "suit": "Swords",
+  "name": "Nine of Swords",
+  "upright_meanings_1": [
+    "anxiety",
+    "hopelessness",
+    "trauma"
+  ],
+  "upright_meanings_2": [
+    "fear",
+    "anxiety",
+    "negativity",
+    "breaking point",
+    "despair",
+    "nightmares",
+    "isolation"
+  ],
+  "upright_love_meaning": [
+    "not trusting partner",
+    "suspicious of partner",
+    "regret from past"
+  ],
+  "upright_career_meaning": [
+    "anxiety",
+    "paranoia",
+    "stress from work",
+    "no coping mechanisms"
+  ],
+  "upright_finances_meaning": [
+    "panic about finances",
+    "all-consuming worries",
+    "feeling deprived"
+  ],
+  "reverse_meanings_1": [
+    "hope",
+    "reaching out",
+    "despair"
+  ],
+  "reverse_meanings_2": [
+    "recovery",
+    "learning to cope",
+    "facing life",
+    "finding help",
+    "shame",
+    "guilt",
+    "mental health issues"
+  ],
+  "reverse_love_meaning": [
+    "getting help from partner",
+    "alleviating stress by sharing"
+  ],
+  "reverse_career_meaning": [
+    "clarity about work",
+    "finding peace",
+    "stresses becoming real"
+  ],
+  "reverse_finances_meaning": [
+    "clarity about finances",
+    "peace",
+    "poverty",
+    "lack of resources"
+  ]
+}

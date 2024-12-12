@@ -1,0 +1,53 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Tower",
+  "upright_meanings_1": [
+    "sudden upheaval",
+    "broken pride",
+    "disaster"
+  ],
+  "upright_meanings_2": [
+    "disaster",
+    "destruction",
+    "upheaval",
+    "trauma",
+    "sudden change",
+    "chaos"
+  ],
+  "upright_love_meaning": [
+    "breakup",
+    "weak relationships ending",
+    "foundational shift in view of love"
+  ],
+  "upright_career_meaning": [
+    "sudden job loss",
+    "workplace disruption",
+    "workplace chaos"
+  ],
+  "upright_finances_meaning": [
+    "financial loss",
+    "wake up call regarding finances"
+  ],
+  "reverse_meanings_1": [
+    "disaster avoided",
+    "delayed disaster",
+    "fear of suffering"
+  ],
+  "reverse_meanings_2": [
+    "averting disaster",
+    "delaying the inevitable",
+    "resisting change"
+  ],
+  "reverse_love_meaning": [
+    "making adjustments in love",
+    "leaving a weak relationship"
+  ],
+  "reverse_career_meaning": [
+    "surviving layoffs",
+    "avoiding taking risks in career"
+  ],
+  "reverse_finances_meaning": [
+    "surviving financial disaster",
+    "repeating financial troubles"
+  ]
+}

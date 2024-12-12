@@ -1,0 +1,55 @@
+{
+  "suit": "Pentacles",
+  "name": "Ace of Pentacles",
+  "upright_meanings_1": [
+    "opportunity",
+    "prosperity",
+    "new venture"
+  ],
+  "upright_meanings_2": [
+    "new opportunities",
+    "resources",
+    "abundance",
+    "prosperity",
+    "security",
+    "stability",
+    "manifestation"
+  ],
+  "upright_love_meaning": [
+    "steady loving relationship",
+    "abundance and prosperity in love",
+    "privileged couple"
+  ],
+  "upright_career_meaning": [
+    "new work or business opportunities"
+  ],
+  "upright_finances_meaning": [
+    "investing in future",
+    "new financial journey"
+  ],
+  "reverse_meanings_1": [
+    "lost opportunity",
+    "missed chance",
+    "bad investment"
+  ],
+  "reverse_meanings_2": [
+    "missed chances",
+    "scarcity",
+    "deficiency",
+    "instability",
+    "stinginess",
+    "bad investments"
+  ],
+  "reverse_love_meaning": [
+    "loss of emotional stability",
+    "money issues in relationship"
+  ],
+  "reverse_career_meaning": [
+    "missed work opportunities",
+    "invested in wrong career"
+  ],
+  "reverse_finances_meaning": [
+    "scarcity",
+    "bad financial decisions"
+  ]
+}

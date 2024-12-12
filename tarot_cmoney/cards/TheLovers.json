@@ -1,0 +1,60 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Lovers",
+  "upright_meanings_1": [
+    "partnerships",
+    "duality",
+    "union"
+  ],
+  "upright_meanings_2": [
+    "love",
+    "unions",
+    "partnerships",
+    "relationships",
+    "choices",
+    "romance",
+    "balance",
+    "unity"
+  ],
+  "upright_love_meaning": [
+    "balanced",
+    "loving",
+    "supportive relationship",
+    "choices about love"
+  ],
+  "upright_career_meaning": [
+    "business partnership",
+    "romance at work",
+    "choices about career"
+  ],
+  "upright_finances_meaning": [
+    "mutually exclusive financial choices"
+  ],
+  "reverse_meanings_1": [
+    "loss of balance",
+    "one-sidedness",
+    "disharmony"
+  ],
+  "reverse_meanings_2": [
+    "disharmony",
+    "imbalance",
+    "conflict",
+    "detachment",
+    "bad choices",
+    "indecision"
+  ],
+  "reverse_love_meaning": [
+    "cold",
+    "detached partner",
+    "too many suitors",
+    "imbalance in relationship"
+  ],
+  "reverse_career_meaning": [
+    "conflicts between colleagues",
+    "romance at work leading to trouble"
+  ],
+  "reverse_finances_meaning": [
+    "impulsive financial choices",
+    "not responsible about finances"
+  ]
+}

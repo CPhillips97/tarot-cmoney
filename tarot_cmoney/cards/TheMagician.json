@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Magician",
+  "upright_meanings_1": [
+    "willpower",
+    "desire",
+    "creation",
+    "manifestation"
+  ],
+  "upright_meanings_2": [
+    "willpower",
+    "desire",
+    "being resourceful,",
+    "skill",
+    "ability",
+    "concentration",
+    "manifestation"
+  ],
+  "upright_love_meaning": [
+    "creating opportunities for love",
+    "being proactive in love"
+  ],
+  "upright_career_meaning": [
+    "harnessing career opportunities",
+    "determination and drive"
+  ],
+  "upright_finances_meaning": [
+    "pursuing financial opportunity",
+    "making use of skills"
+  ],
+  "reverse_meanings_1": [
+    "trickery",
+    "illusions",
+    "out of touch"
+  ],
+  "reverse_meanings_2": [
+    "manipulation",
+    "cunning",
+    "trickery",
+    "wasted talent",
+    "illusion",
+    "deception"
+  ],
+  "reverse_love_meaning": [
+    "romantic illusion",
+    "romantic trickery",
+    "low willpower for love"
+  ],
+  "reverse_career_meaning": [
+    "wasted talent",
+    "unwillingness to take chances",
+    "workplace deception"
+  ],
+  "reverse_finances_meaning": [
+    "missed financial opportunity",
+    "not using skills for financial gain"
+  ]
+}

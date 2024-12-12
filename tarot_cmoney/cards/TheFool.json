@@ -1,0 +1,58 @@
+{
+  "suit": "MajorArcana",
+  "name": "The Fool",
+  "upright_meanings_1": [
+    "innocence",
+    "new beginnings",
+    "free spirit"
+  ],
+  "upright_meanings_2": [
+    "beginnings",
+    "freedom",
+    "innocence",
+    "originality",
+    "adventure",
+    "idealism",
+    "spontaneity"
+  ],
+  "upright_love_meaning": [
+    "new relationship",
+    "fun light romance"
+  ],
+  "upright_career_meaning": [
+    "new job",
+    "new business",
+    "breath of fresh air at work"
+  ],
+  "upright_finances_meaning": [
+    "spontaneous spending",
+    "financial opportunities"
+  ],
+  "reverse_meanings_1": [
+    "recklessness",
+    "taken advantage of",
+    "inconsideration"
+  ],
+  "reverse_meanings_2": [
+    "reckless",
+    "careless",
+    "distracted",
+    "naive",
+    "foolish",
+    "gullible",
+    "stale",
+    "dull"
+  ],
+  "reverse_love_meaning": [
+    "lack of commitment",
+    "risky relationship"
+  ],
+  "reverse_career_meaning": [
+    "stale and boring job",
+    "reckless actions at work"
+  ],
+  "reverse_finances_meaning": [
+    "caution around financial opportunities",
+    "foolish purchases"
+  ]
+}

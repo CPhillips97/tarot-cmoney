@@ -1,0 +1,59 @@
+{
+  "suit": "Wands",
+  "name": "Four of Wands",
+  "upright_meanings_1": [
+    "community",
+    "home",
+    "celebration"
+  ],
+  "upright_meanings_2": [
+    "community",
+    "home",
+    "celebrations",
+    "reunions",
+    "parties",
+    "gatherings",
+    "stability",
+    "belonging"
+  ],
+  "upright_love_meaning": [
+    "weddings",
+    "engagements",
+    "gatherings and public celebrations of love"
+  ],
+  "upright_career_meaning": [
+    "feeling supported by colleagues",
+    "office parties",
+    "bonding with colleagues"
+  ],
+  "upright_finances_meaning": [
+    "financially supporting loved ones",
+    "financial stability and comfort"
+  ],
+  "reverse_meanings_1": [
+    "lack of support",
+    "transience",
+    "home conflicts"
+  ],
+  "reverse_meanings_2": [
+    "lack of support",
+    "instability",
+    "feeling unwelcome",
+    "transience",
+    "lack of roots",
+    "home conflict"
+  ],
+  "reverse_love_meaning": [
+    "conflict between family",
+    "community and love life",
+    "fear of public commitment"
+  ],
+  "reverse_career_meaning": [
+    "workplace conflicts between colleagues",
+    "office conflicts"
+  ],
+  "reverse_finances_meaning": [
+    "unstable finances",
+    "supporting family or loved ones can be a burden"
+  ]
+}

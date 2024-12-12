@@ -1,0 +1,60 @@
+{
+  "suit": "Wands",
+  "name": "Page of Wands",
+  "upright_meanings_1": [
+    "exploration",
+    "excitement",
+    "freedom"
+  ],
+  "upright_meanings_2": [
+    "adventure",
+    "excitement",
+    "fresh ideas",
+    "cheerfulness",
+    "energetic",
+    "fearless",
+    "extroverted"
+  ],
+  "upright_love_meaning": [
+    "possibilities and adventures in love",
+    "lively lover",
+    "fleeting romance"
+  ],
+  "upright_career_meaning": [
+    "new position or project",
+    "taking risks at work",
+    "eagerness for challenge"
+  ],
+  "upright_finances_meaning": [
+    "small financial gifts",
+    "temptations regarding spending"
+  ],
+  "reverse_meanings_1": [
+    "lack of direction",
+    "procrastination",
+    "creating conflict"
+  ],
+  "reverse_meanings_2": [
+    "hasty",
+    "impatient",
+    "lacking ideas",
+    "tantrums",
+    "laziness",
+    "boring",
+    "unreliable",
+    "distracted"
+  ],
+  "reverse_love_meaning": [
+    "failure to commit",
+    "unreliable lover",
+    "aimless search for love"
+  ],
+  "reverse_career_meaning": [
+    "boredom with job",
+    "lack of vigor in pursuing career goals"
+  ],
+  "reverse_finances_meaning": [
+    "financial instability",
+    "overspending in past creating problems now"
+  ]
+}

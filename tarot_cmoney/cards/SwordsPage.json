@@ -1,0 +1,61 @@
+{
+  "suit": "Swords",
+  "name": "Page of Swords",
+  "upright_meanings_1": [
+    "curiosity",
+    "restlessness",
+    "mental energy"
+  ],
+  "upright_meanings_2": [
+    "curious",
+    "witty",
+    "chatty",
+    "communicative",
+    "inspired",
+    "vigilant",
+    "alert",
+    "mental agility"
+  ],
+  "upright_love_meaning": [
+    "intellectual relationship",
+    "lack of emotional intimacy"
+  ],
+  "upright_career_meaning": [
+    "ambitious",
+    "intelligent person",
+    "new career",
+    "education"
+  ],
+  "upright_finances_meaning": [
+    "financial curiosity",
+    "ideas for making money"
+  ],
+  "reverse_meanings_1": [
+    "deception",
+    "manipulation",
+    "all talk"
+  ],
+  "reverse_meanings_2": [
+    "scatterbrained",
+    "cynical",
+    "sarcastic",
+    "gossipy",
+    "insulting",
+    "rude",
+    "lack of planning"
+  ],
+  "reverse_love_meaning": [
+    "argumentative",
+    "defensive partner",
+    "failure to communicate"
+  ],
+  "reverse_career_meaning": [
+    "job-hopping",
+    "unsure about future career",
+    "office gossip"
+  ],
+  "reverse_finances_meaning": [
+    "overanalyzing finances",
+    "research but no action"
+  ]
+}

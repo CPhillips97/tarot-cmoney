@@ -1,0 +1,52 @@
+{
+  "suit": "Swords",
+  "name": "Six of Swords",
+  "upright_meanings_1": [
+    "transition",
+    "leaving behind",
+    "moving on"
+  ],
+  "upright_meanings_2": [
+    "moving on",
+    "departure",
+    "leaving behind",
+    "distance",
+    "accepting lessons"
+  ],
+  "upright_love_meaning": [
+    "moving on from relationship",
+    "reconciling after fight"
+  ],
+  "upright_career_meaning": [
+    "leaving stressful workplace",
+    "moving to new role"
+  ],
+  "upright_finances_meaning": [
+    "finding material stability again",
+    "learned lessons"
+  ],
+  "reverse_meanings_1": [
+    "emotional baggage",
+    "unresolved issues",
+    "resisting transition"
+  ],
+  "reverse_meanings_2": [
+    "stuck in past",
+    "returning to trouble",
+    "running away from problems",
+    "trapped"
+  ],
+  "reverse_love_meaning": [
+    "can\u2019t move on",
+    "can\u2019t let go",
+    "haunted"
+  ],
+  "reverse_career_meaning": [
+    "creating conflicts",
+    "self-sabotage",
+    "trapped at job"
+  ],
+  "reverse_finances_meaning": [
+    "avoiding dealing with finances"
+  ]
+}
