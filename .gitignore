@@ -1,2 +1,6 @@
-tarot_cmoney/scraper.py
-tarot_cmoney/main.py
+dist/*
+*.env
+main.py
+poetry.lock
+pyproject.toml
+README.md

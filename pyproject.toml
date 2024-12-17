@@ -1,16 +1,17 @@
 [tool.poetry]
 name = "tarot-cmoney"
-version = "0.1.1"
+version = "0.1.5"
 description = ""
 authors = ["christian.phillips <phristianchillips@gmail.com>"]
 readme = "README.md"
+exclude = [
+    'main.py',
+    'scraper.py'
+]
 
 [tool.poetry.dependencies]
 python = "^3.12"
-requests = "^2.32.3"
 openai = "^1.57.3"
-beautifulsoup4 = "^4.12.3"
-python-dotenv = "^1.0.1"
 
 
 [build-system]

@@ -3,14 +3,16 @@ import os
 import random
 from argparse import ArgumentError
 
-from card import Card, CardRaw
-from exceptions import NoCardsRemainingError
+from .config import Config
+from .card import Card, CardRaw
+from .exceptions import NoCardsRemainingError
 
 
 class Deck:
-    __card_directory = 'cards'
+    __card_directory = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'cards')
 
     def __init__(self):
+        self.config = Config()
         self.__cards: list[CardRaw] = list()
         self.reset()
 

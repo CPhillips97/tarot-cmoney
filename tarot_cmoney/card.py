@@ -1,7 +1,9 @@
 import random
 from dataclasses import dataclass
+from typing import Self
 
-from exceptions import UnexpectedDirectionError
+from .config import Config
+from .exceptions import UnexpectedDirectionError
 
 
 @dataclass
@@ -22,6 +24,7 @@ class CardRaw:
 
 class Card:
     def __init__(self, raw_card: CardRaw, forced_direction: str = 'none'):
+        self.config = Config()
         self.raw_card = raw_card
         self.__forcedDirection = forced_direction
 
@@ -65,7 +68,7 @@ class Card:
 
     def __set_reversed_status(self) -> bool:
         if self.__forcedDirection == 'none':
-            if random.randint(0, 1) == 0:
+            if random.random() < self.config.reverse_probability:
                 return True
             return False
         else:
@@ -75,6 +78,10 @@ class Card:
                 return True
             else:
                 raise UnexpectedDirectionError(self.__forcedDirection)
+
+    def get_card_in_other_direction(self) -> Self:
+        direction = 'upright' if self.is_reversed else 'reversed'
+        return Card(raw_card=self.raw_card, forced_direction=direction)
 
     def __str__(self):
         return self.name

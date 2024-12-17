@@ -1,7 +1,8 @@
 from openai import OpenAI
 
-from card import Card
-from deck import Deck
+from .card import Card
+from .deck import Deck
+from .config import Config
 
 class TarotReading:
     def __init__(self, tarot_cards: list[Card], question_asked: str, response: str):
@@ -22,24 +23,21 @@ class TarotReading:
         return self.__response
 
 class TarotReader:
-    __init_question: str = ('You are a intelligent assistant who specializes in tarot card readings. The next message '
-                            'will include the question for you to provide insight into using your expertise in this '
-                            'subject. The following message will tell you which cards were drawn and whether they were '
-                            'drawn reversed or upright.')
-
-
+    __init_question: str = 'You are a intelligent assistant who specializes in tarot card readings.'
 
     def __init__(self, open_ai_api_key: str, model_name: str):
+        self.config = Config()
         self.__messages: list[dict[str, str]] = list()
         self.__model_name: str = model_name
         self.__open_ai_api_key: str = open_ai_api_key
 
         self.__client = OpenAI(api_key=self.__open_ai_api_key)
+        self.__write_using_stream = self.config.chatgpt_write_using_stream
 
     def set_ai_model(self, model_name: str) -> None:
         self.__model_name = model_name
 
-    def get_reading(self, question: str, num_cards: int = 3) -> TarotReading:
+    def get_reading(self, question: str, additional_context: list[str] = None, num_cards: int = 3) -> TarotReading:
         deck = Deck()
         cards_drawn: list[Card] = list()
 
@@ -47,7 +45,16 @@ class TarotReader:
             cards_drawn.append(deck.draw_card())
 
         self.__load_client()
+
+        # Initial question
         self.__append_user_msg(question)
+
+        # Context
+        if additional_context:
+            self.__append_user_msg('The next messages provide additional context to enhance your reading so that it is '
+                                   'tailored to this context.')
+            for context in additional_context:
+                self.__append_user_msg(context)
 
         card_string = ', '.join(
             f'{card} in {"reversed" if card.is_reversed else "upright"} position' for card in cards_drawn
@@ -56,7 +63,7 @@ class TarotReader:
         self.__append_user_msg(f'The following cards are drawn: {card_string}')
 
         chat_completion = self.__client.chat.completions.create(
-            model=self.__model_name, messages=self.__messages
+            model=self.__model_name, messages=self.__messages, stream=self.__write_using_stream
         )
 
         assistant_reply = chat_completion.choices[0].message.content
@@ -80,11 +87,13 @@ class TarotReader:
         self.__messages.append({'role': 'assistant',
                                 'content': message})
 
+    def __append_system_msg(self, message: str) -> None:
+        self.__messages.append({'role': 'system',
+                                'content': message})
+
     def __start_new_thread(self):
         self.__clear_messages()
-        self.__messages.append({'role': 'system',
-                                'content': self.__init_question})
-
+        self.__append_system_msg(self.__init_question)
 
     def __clear_messages(self) -> None:
         self.__messages.clear()
